@@ -12,7 +12,7 @@ const Header: React.FC<PropsWithChildren> = ({ children }) => {
           to="https://qwerty.kaiyi.cool/"
         >
           <img src={logo} className="mr-3 h-16 w-16" alt="Qwerty Learner Logo" />
-          <h1 style="font-size: 8px;">Qwerty Learner</h1>
+          <span>Qwerty Learner</span>
         </NavLink>
         <nav className="my-card on element flex w-auto content-center items-center justify-end space-x-3 rounded-xl bg-white p-4 transition-colors duration-300 dark:bg-gray-800">
           {children}
