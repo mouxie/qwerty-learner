@@ -386,12 +386,6 @@
     {
         "usphone": "",
         "ukphone": "",
-        "name": "地震",
-        "trans": ["earthquake\nquake\nseism\ntemblor\nearthshock\nearthdin"]
-    },
-    {
-        "usphone": "",
-        "ukphone": "",
         "name": "smoothie",
         "trans": ["n.举止文雅的人，八面玲珑的的人，圆滑的人；加奶（或冰淇淋）果汁，奶昔\nn.（Smoothie）（美、澳、沙）史莫提埃（人名）"]
     },
@@ -520,12 +514,6 @@
         "ukphone": "",
         "name": "drug allergy",
         "trans": ["药物过敏：对某种药物产生过敏反应的免疫系统异常反应。\n· She developed a severe drug allergy after taking the medication.\n她在服用药物后出现了严重的药物过敏反应。"]
-    },
-    {
-        "usphone": "",
-        "ukphone": "",
-        "name": "药物过敏",
-        "trans": ["allergic to drug\ndrug allergy"]
     },
     {
         "usphone": "",
@@ -660,10 +648,10 @@
         "trans": ["n. 过敏反应，过敏症；厌恶，反感"]
     },
     {
-        "usphone": "",
-        "ukphone": "",
-        "name": "手链",
-        "trans": ["bracelet"]
+        "usphone": "ˈbreɪslət",
+        "ukphone": "ˈbreɪslət",
+        "name": "bracelet",
+        "trans": ["手镯，臂镯"]
     },
     {
         "usphone": "[kʌˈstəʊdiən]",
@@ -736,12 +724,6 @@
         "ukphone": "",
         "name": "stroll",
         "trans": ["v.散步，闲逛；（体育比赛）轻而易举地获胜\nn.散步，溜达；（竞赛中）轻易的胜利"]
-    },
-    {
-        "usphone": "[bá yá]",
-        "ukphone": "[bá yá]",
-        "name": "拔牙",
-        "trans": ["tooth extraction\npull out a tooth"]
     },
     {
         "usphone": "",
@@ -1062,12 +1044,6 @@
         "trans": ["乱发脾气；暴怒发作"]
     },
     {
-        "usphone": "[ˌɪnfəˈmeɪʃ(ə)n]",
-        "ukphone": "[ˌɪnfəˈmeɪʃ(ə)n]",
-        "name": "information",
-        "trans": ["n. 消息，资料，情报；（计算机程序储存和使用的）数据，信息；问讯处，信息台；（向治安法院提起的）控告，起诉；知识"]
-    },
-    {
         "usphone": "",
         "ukphone": "",
         "name": "in theory",
@@ -1104,28 +1080,16 @@
         "trans": ["n.失眠（症）"]
     },
     {
-        "usphone": "",
-        "ukphone": "",
-        "name": "痰",
-        "trans": ["phlegm\nsputum"]
-    },
-    {
-        "usphone": "",
-        "ukphone": "",
+        "usphone": "θrəʊt",
+        "ukphone": "θroʊt",
         "name": "throat",
         "trans": ["n.喉咙，咽喉；喉部，颈前部；咽喉状部分（尤指狭窄通道、进出管路）；<文>嗓音，嗓门，歌喉；（肋材、锚臂或前后帆等的）弯曲处，凹口\nv.用喉音说"]
     },
     {
-        "usphone": "",
-        "ukphone": "",
-        "name": "喉咙",
-        "trans": ["throat\nthrottle"]
-    },
-    {
-        "usphone": "",
-        "ukphone": "",
-        "name": "喉咙痛",
-        "trans": ["sore throat"]
+        "usphone": "sɔːr",
+        "ukphone": "sɔː(r)",
+        "name": "sore throat",
+        "trans": ["喉咙痛"]
     },
     {
         "usphone": "",
@@ -1170,14 +1134,8 @@
         "trans": ["n. <正式>房屋及周围的土地；性质，性能；（舞台或电影的）道具（prop 的旧时用语）（property 的复数）"]
     },
     {
-        "usphone": "[rɪˈkwaɪəd]",
-        "ukphone": "[rɪˈkwaɪəd]",
-        "name": "required",
-        "trans": ["adj. 必需的，规定的；理想的\nv. 需要；要求做（某事），规定（require 的过去式和过去分词形式）；要求做（某事），规定（require 的过去式和过去分词）"]
-    },
-    {
-        "usphone": "",
-        "ukphone": "",
+        "usphone": "plæn",
+        "ukphone": "plæn",
         "name": "plan",
         "trans": ["n.（详细）规划；（养老金、储蓄、保险）方案；计划，打算；平面图，详图；分布图，示意图；（卫理公会教堂）巡回传教士名单；（手机流量、话费等）套餐\nv.计划，筹划；打算；设计；期望，预料\n【名】 （Plan）（瑞典）普兰，（法）普朗（人名）"]
     },
@@ -1200,8 +1158,8 @@
         "trans": ["设法、努力（完成某事）;"]
     },
     {
-        "usphone": "",
-        "ukphone": "",
+        "usphone": "bʌz",
+        "ukphone": "bʌz",
         "name": "buzz",
         "trans": ["v.发嗡嗡声，发蜂鸣声；匆忙走动；充满嘈杂声；充满想法；繁忙，充满活力；<非正式>给（某人）打电话；<非正式>（飞机）低空飞过；（用蜂鸣器）呼叫\nn.嗡嗡声，蜂鸣声；叽叽喳喳声，嘈杂声；<非正式>兴奋，快乐；热闹有趣的气氛，时尚氛围；<非正式>电话；<非正式>流言，传闻\nadj.（词语、想法或活动）时髦的\n【名】 （Buzz）（美、印、俄）巴兹（人名）"]
     },
@@ -1412,12 +1370,6 @@
     {
         "usphone": "",
         "ukphone": "",
-        "name": "respectively",
-        "trans": [""]
-    },
-    {
-        "usphone": "",
-        "ukphone": "",
         "name": "azure",
         "trans": ["adj.蔚蓝的，天蓝色的；（纹章）蓝色的\nn.天蓝色；（文）碧空；琉灰蝶（属）"]
     },
@@ -1518,10 +1470,10 @@
         "trans": ["n.范围，幅度；光谱；波谱，频谱；余象"]
     },
     {
-        "usphone": "[zhān tiē]",
-        "ukphone": "[zhān tiē]",
-        "name": "粘贴",
-        "trans": ["paste\nstick\nstickup\naffix\nplaster"]
+        "usphone": "peɪst",
+        "ukphone": "peɪst",
+        "name": "paste",
+        "trans": ["v. 粘贴 n. 面糊，糊状物；糨糊； 肉（或鱼等）酱（作涂抹料或烹饪用）；（制作人造宝石用的）铅质玻璃；（制陶、瓷器用的）湿黏土"]
     },
     {
         "usphone": "",
@@ -1992,40 +1944,16 @@
         "trans": ["n. 统计数字，统计资料；统计学（statistics）；（一项）统计数据\nadj. 统计的，统计学的（同 statistical）"]
     },
     {
-        "usphone": "",
-        "ukphone": "",
-        "name": "sta",
-        "trans": ["abbr. 无线电台临时使用许可证（Special Temporary Authority）；航海训练协会（Sail Training Association）；科学技术局（ScienceandTechnology Agency）"]
-    },
-    {
         "usphone": "[ˈwɪsəlˌbləʊɪŋ]",
         "ukphone": "[ˈwɪsəlˌbləʊɪŋ]",
         "name": "whistleblowing",
         "trans": ["揭发"]
     },
     {
-        "usphone": "[ˈɡaɪ]",
-        "ukphone": "[ˈɡaɪ]",
-        "name": "gai",
-        "trans": ["n. （Gai）（美、澳、以）加伊（人名）"]
-    },
-    {
         "usphone": "[ɡeɪn]",
         "ukphone": "[ɡeɪn]",
         "name": "gain",
         "trans": ["v. 获得，赢得；受益；增加，增长；（经过努力）到达；（钟表）走快；持球前进，推进（一段距离）\nn. 增加；好处，改进；收益；将球推进的距离；（常用对数表示的功率或电压的）增益\n【名】 （Gain）（英、匈、法）盖恩（人名）"]
-    },
-    {
-        "usphone": "",
-        "ukphone": "",
-        "name": "gain",
-        "trans": [""]
-    },
-    {
-        "usphone": "",
-        "ukphone": "",
-        "name": "gained",
-        "trans": [""]
     },
     {
         "usphone": "",
@@ -2052,22 +1980,10 @@
         "trans": ["adj. 不充分的，不够重要的"]
     },
     {
-        "usphone": "",
-        "ukphone": "",
-        "name": "insufficient",
-        "trans": [""]
-    },
-    {
         "usphone": "[rɪˈmembə(r)]",
         "ukphone": "[rɪˈmembə(r)]",
         "name": "remember",
         "trans": ["v. 回想起，记得；记起，忆起（某事物）；记牢，不忘记；纪念，缅怀；（祈祷时）为......祝福；送钱，送礼（给某人）；代（某人）问候（某人）；（失态后）检点，补救"]
-    },
-    {
-        "usphone": "",
-        "ukphone": "",
-        "name": "remember",
-        "trans": [""]
     },
     {
         "usphone": "[ˌkɒrəˈspɒndɪŋ]",
