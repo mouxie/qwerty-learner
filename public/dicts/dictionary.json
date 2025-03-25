@@ -1524,10 +1524,10 @@
         "trans": ["n. 占位符"]
     },
     {
-        "usphone": "",
-        "ukphone": "",
+        "usphone": "proˈmiθɪəs",
+        "ukphone": "prəu'mi:θju:s; -θiəs",
         "name": "Prometheus",
-        "trans": [""]
+        "trans": ["n. 普罗米修斯（希腊神话中的提坦神之一，与智慧女神雅典娜共同创造了人类）；（天）土卫十六"]
     },
     {
         "usphone": "[əˈkwaɪə(r)]",
@@ -1818,12 +1818,6 @@
         "trans": ["n. [计] 定界符"]
     },
     {
-        "usphone": "",
-        "ukphone": "",
-        "name": "delimiter",
-        "trans": [""]
-    },
-    {
         "usphone": "[θrɪld]",
         "ukphone": "[θrɪld]",
         "name": "thrilled",
@@ -1914,10 +1908,10 @@
         "trans": ["n. （数）系数；（物理）率，系数"]
     },
     {
-        "usphone": "",
-        "ukphone": "",
+        "usphone": "ˌæmbɪˈɡjuːəti; ˌæmbɪˈɡjuːɪti",
+        "ukphone": "ˌæmbɪˈɡjuːəti; ˌæmbɪˈɡjuːɪti",
         "name": "ambiguity",
-        "trans": [""]
+        "trans": ["n. 模棱两可，不明确；含混不清的语句；一语多义；暧昧，难以理解的感情（或想法）"]
     },
     {
         "usphone": "[baɪ ˈwiːkli]",
@@ -2094,12 +2088,6 @@
         "trans": ["adj. 非法的，违法的；违规的\nn. 非法移民，非法劳工"]
     },
     {
-        "usphone": "",
-        "ukphone": "",
-        "name": "illegal",
-        "trans": [""]
-    },
-    {
         "usphone": "[ˈliːvərɪdʒ]",
         "ukphone": "[ˈliːvərɪdʒ]",
         "name": "leverage",
@@ -2136,12 +2124,6 @@
         "trans": ["v. 责骂，训斥\nn. 爱训斥人的人"]
     },
     {
-        "usphone": "",
-        "ukphone": "",
-        "name": "检查下面文件是否存在",
-        "trans": [""]
-    },
-    {
         "usphone": "[ˈkjuːmjələs]",
         "ukphone": "[ˈkjuːmjələs]",
         "name": "cumulus",
@@ -2166,10 +2148,10 @@
         "trans": ["n. 自由职业者，特约人员"]
     },
     {
-        "usphone": "",
-        "ukphone": "",
+        "usphone": "ʃɪˈbæŋ",
+        "ukphone": "ʃɪˈbæŋ",
         "name": "shebang line",
-        "trans": [""]
+        "trans": ["n.工作；事情；住所. 井号行; #!/bin/bash; （也称为 hashbang 或 #!）是 Unix/Linux 系统（包括 macOS）中脚本文件的开头第一行，用于指定执行该脚本所需的解释器路径。它的作用是告诉系统：“用哪个程序来运行这个脚本”。"]
     },
     {
         "usphone": "[ˈtentətɪv]",
@@ -2218,12 +2200,6 @@
         "ukphone": "[ˌkeɪpəˈbɪləti]",
         "name": "capability",
         "trans": ["n. 能力，才能；（国家的）军事力量；计算机性能"]
-    },
-    {
-        "usphone": "",
-        "ukphone": "",
-        "name": "capability",
-        "trans": [""]
     },
     {
         "usphone": "[ˈtrænziənt]",
@@ -2310,16 +2286,10 @@
         "trans": ["adj. 分散的，零散的"]
     },
     {
-        "usphone": "",
-        "ukphone": "",
+        "usphone": "sprɔːl  əˈkrɔːs",
+        "ukphone": "sprɔːl  əˈkrɒs",
         "name": "sprawl across",
         "trans": ["蔓延"]
-    },
-    {
-        "usphone": "[ˌæmbɪˈɡjuːəti]",
-        "ukphone": "[ˌæmbɪˈɡjuːəti]",
-        "name": "ambiguity",
-        "trans": ["n. 模棱两可，不明确；含混不清的语句；一语多义；暧昧，难以理解的感情（或想法）"]
     },
     {
         "usphone": "[nɪˌɡəʊʃiˈeɪʃn]",
@@ -2358,10 +2328,10 @@
         "trans": ["adj. 概念的，观念的"]
     },
     {
-        "usphone": "",
-        "ukphone": "",
+        "usphone": "tuːˈdʌŋ",
+        "ukphone": "too-DONG",
         "name": "tudung",
-        "trans": [""]
+        "trans": ["n. （尤指东南亚穆斯林妇女穿着的）头巾； 如果是马来语/印尼语中的头巾，发音会更接近 “图-东”（快速连读），重音在第二个音节"]
     },
     {
         "usphone": "[ˈelɪveɪt]",
@@ -2474,12 +2444,6 @@
     {
         "usphone": "",
         "ukphone": "",
-        "name": "credential",
-        "trans": [""]
-    },
-    {
-        "usphone": "",
-        "ukphone": "",
         "name": "full fledge",
         "trans": ["完整规模\n有经验\n全面"]
     },
@@ -2500,12 +2464,6 @@
         "ukphone": "[kraɪˈtɪəriə]",
         "name": "criteria",
         "trans": ["n. 标准，条件（criterion 的复数）"]
-    },
-    {
-        "usphone": "",
-        "ukphone": "",
-        "name": "criteria",
-        "trans": [""]
     },
     {
         "usphone": "[ˈɜːli]",
@@ -2536,12 +2494,6 @@
         "ukphone": "[ˌheksəˈdesɪml]",
         "name": "hexadecimal",
         "trans": ["adj. 十六进制的\nn. 十六进制"]
-    },
-    {
-        "usphone": "",
-        "ukphone": "",
-        "name": "hexadecimal",
-        "trans": [""]
     },
     {
         "usphone": "",
@@ -2614,18 +2566,6 @@
         "ukphone": "[ˈfʌŋɡəs]",
         "name": "fungus",
         "trans": ["n. 真菌，霉菌；菌类"]
-    },
-    {
-        "usphone": "",
-        "ukphone": "",
-        "name": "MetaID",
-        "trans": [""]
-    },
-    {
-        "usphone": "",
-        "ukphone": "",
-        "name": "available",
-        "trans": [""]
     },
     {
         "usphone": "[kraɪˈtɪəriən]",
@@ -2820,16 +2760,16 @@
         "trans": ["adj. 内部的，里面的；国内的，内政的；内心的，本质的；内陆的，腹地的\nn. 内部，里面；内陆，腹地；（本国的）内政，内务；（建筑物或房间内的）内景；内心，本质"]
     },
     {
-        "usphone": "",
-        "ukphone": "",
-        "name": "ministray",
-        "trans": [""]
+        "usphone": "ˈmɪnɪstri",
+        "ukphone": "ˈmɪnɪstri",
+        "name": "ministry",
+        "trans": ["n.（政府的）部，部办公楼；（全体）牧师；神职，神职任期；一任首相的执政期；照料，服务"]
     },
     {
-        "usphone": "",
-        "ukphone": "",
-        "name": "combodia",
-        "trans": [""]
+        "usphone": "kæmˈboʊdiə",
+        "ukphone": "kæmˈbəʊdiə",
+        "name": "Cambodia",
+        "trans": ["n. 柬埔寨（位于亚洲）"]
     },
     {
         "usphone": "[ˈjuːtəlaɪz]",
@@ -3066,28 +3006,22 @@
         "trans": ["adj. 预算的"]
     },
     {
-        "usphone": "",
-        "ukphone": "",
+        "usphone": "ˈbʌdʒɪteri | kwəʊt",
+        "ukphone": "ˈbʌdʒɪtəri | kwəʊt",
         "name": "budgetary quote",
-        "trans": [""]
+        "trans": ["预算报价"]
     },
     {
-        "usphone": "",
-        "ukphone": "",
+        "usphone": "spɑːn",
+        "ukphone": "spɔːn",
         "name": "spawn",
         "trans": ["v.产卵；酿成，造成；大量生产；（人）生（孩子，多指不想要的孩子）\nn.卵；菌丝；产物"]
     },
     {
-        "usphone": "",
-        "ukphone": "",
+        "usphone": "klɔː",
+        "ukphone": "klɔː",
         "name": "claw",
         "trans": ["n.爪；螯，钳；爪形器具\nvi.用爪抓（或挖）\nvt.用爪抓（或挖）"]
-    },
-    {
-        "usphone": "",
-        "ukphone": "",
-        "name": "静态变量",
-        "trans": ["[数] static variable;"]
     },
     {
         "usphone": "[ˈrektɪfaɪ]",
@@ -5238,12 +5172,6 @@
         "trans": ["n. 范例；词形变化表"]
     },
     {
-        "usphone": "",
-        "ukphone": "",
-        "name": "i managed to",
-        "trans": [""]
-    },
-    {
         "usphone": "[ˈpremɪs]",
         "ukphone": "[ˈpremɪs]",
         "name": "premise",
@@ -5343,7 +5271,7 @@
         "usphone": "",
         "ukphone": "",
         "name": "as time has progressed",
-        "trans": [""]
+        "trans": ["随着时间的推移"]
     },
     {
         "usphone": "",
@@ -5958,10 +5886,10 @@
         "trans": ["adj. 十六进制的\nn. 十六进制"]
     },
     {
-        "usphone": "",
+        "usphone": "dʒiˈɑːmətri",
         "ukphone": "/dʒiːˈɒmɪtɹi/",
         "name": "geometry",
-        "trans": [""]
+        "trans": ["n.几何，几何学；几何形状，几何构造；几何体系"]
     },
     {
         "usphone": "['gɪltɪ]",
@@ -5994,10 +5922,10 @@
         "trans": ["n. 侦探；警犬\nvi. 做侦探；侦查"]
     },
     {
-        "usphone": "",
-        "ukphone": "/ˌɹɛkəɡˈnɪʃən/",
+        "usphone": "[ˌrekəɡˈnɪʃ(ə)n]",
+        "ukphone": "[ˌrekəɡˈnɪʃn]",
         "name": "recognition",
-        "trans": [""]
+        "trans": ["n. 承认，接受；表彰，赞誉；认出，识别；（政府对他国的）外交认可"]
     },
     {
         "usphone": "",
@@ -6030,16 +5958,16 @@
         "trans": ["n. 女儿；[遗][农学] 子代\nadj. 女儿的；子代的"]
     },
     {
-        "usphone": "",
-        "ukphone": "/mɛʃ/",
+        "usphone": "[meʃ]",
+        "ukphone": "/meʃ/",
         "name": "mesh",
-        "trans": [""]
+        "trans": ["n.网，网状物；错综复杂的局面，陷阱，圈套；网眼，网孔；网状结构，互相交织的结构；（计算机）网格，格网；（计算机）网状网络（尤指 n 维点阵）v.啮合；吻合，匹配，适合；（使）交缠在一起；将……转化成网格，将……生成网格；以网捕捉"]
     },
     {
-        "usphone": "",
+        "usphone": "[ˈdʒɔːndɪs]",
         "ukphone": "/ˈdʒɔːndɪs/",
         "name": "jaundice",
-        "trans": [""]
+        "trans": ["n.黄疸；偏见；乖僻 vt.使怀偏见；使患黄疸"]
     },
     {
         "usphone": "[əˈmɪt]",
@@ -6162,25 +6090,19 @@
         "trans": ["n. 可能性；发展潜力，发展可能（possibility的复数）"]
     },
     {
-        "usphone": "",
-        "ukphone": "",
-        "name": "vailable",
-        "trans": [""]
-    },
-    {
-        "usphone": "",
+        "usphone": "[ˈviːəkl; ˈviːhɪkl]",
         "ukphone": "/ˈvɪː(ə).kəl/",
         "name": "vehicle",
         "trans": ["n [车辆] 车辆；工具；交通工具；运载工具；传播媒介；媒介物"]
     },
     {
-        "usphone": "",
-        "ukphone": "",
+        "usphone": "nɪˈkəʊl",
+        "ukphone": "nɪˈkəʊl",
         "name": "Nicole",
         "trans": ["n.尼科尔（女子名，等于Nichole）"]
     },
     {
-        "usphone": "",
+        "usphone": "[]",
         "ukphone": "/ˈbʊli/",
         "name": "bully",
         "trans": ["n.欺凌弱小者；土霸\nadj.第一流的；特好的\nvt.欺负；威吓\nvi.欺侮人\nadv.很；十分\nint.好；妙\nn.(Bully)人名；(法)布利"]
@@ -6337,12 +6259,6 @@
     },
     {
         "usphone": "",
-        "ukphone": "",
-        "name": "dicipline",
-        "trans": [""]
-    },
-    {
-        "usphone": "",
         "ukphone": "/ɛmˈbɹeɪs/",
         "name": "embrace",
         "trans": ["vt.拥抱；信奉，皈依；包含\nvi.拥抱\nn.拥抱"]
@@ -6366,10 +6282,10 @@
         "trans": ["[经] 指数增长"]
     },
     {
-        "usphone": "",
-        "ukphone": "",
-        "name": "Security flaws",
-        "trans": [""]
+        "usphone": "[sɪˈkjʊrəti][flɔː]",
+        "ukphone": "[sɪˈkjʊərəti][flɔː]",
+        "name": "Security flaw",
+        "trans": ["安全漏洞：指计算机系统或软件中存在的缺陷，可能导致未经授权的访问、数据泄露或其他安全问题。"]
     },
     {
         "usphone": "[prəˈhɪbɪt]",
@@ -6823,12 +6739,6 @@
     },
     {
         "usphone": "",
-        "ukphone": "",
-        "name": "distrubing",
-        "trans": [""]
-    },
-    {
-        "usphone": "",
         "ukphone": "/əˈdɔːɹəbəl/",
         "name": "adorable",
         "trans": ["adj.可爱的；可敬重的，值得崇拜的"]
@@ -6840,8 +6750,8 @@
         "trans": ["方法"]
     },
     {
-        "usphone": "",
-        "ukphone": "",
+        "usphone": "[həˈluːsɪneɪtɪŋ]",
+        "ukphone": "[həˈluːsɪneɪt]",
         "name": "hallucinating",
         "trans": ["v.使产生幻觉（hallucinate的ing形式）"]
     },
@@ -7167,7 +7077,7 @@
         "usphone": "",
         "ukphone": "",
         "name": "greater or less than zero",
-        "trans": [""]
+        "trans": ["大于或小于零"]
     },
     {
         "usphone": "[ˌfɜːðəˈmɔː(r)]",
@@ -9135,7 +9045,7 @@
         "usphone": "",
         "ukphone": "",
         "name": "As far as I known",
-        "trans": [""]
+        "trans": ["据我所知"]
     },
     {
         "usphone": "[rɪˈvɪʒn]",
