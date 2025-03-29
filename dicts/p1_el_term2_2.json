@@ -1,0 +1,62 @@
+[
+    {
+        "name": "fox",
+        "trans": ["狐狸。A carnivorous mammal with a bushy tail and reddish fur."],
+        "usphone": "'fɑks",
+        "ukphone": "'fɒks"
+    },
+    {
+        "name": "fast",
+        "trans": ["快的。Moving or capable of moving at high speed."],
+        "usphone": "'fæst",
+        "ukphone": "'fɑːst"
+    },
+    {
+        "name": "busy",
+        "trans": ["忙碌的。Actively engaged in work or occupied."],
+        "usphone": "'bɪzi",
+        "ukphone": "'bɪzi"
+    },
+    {
+        "name": "proud",
+        "trans": ["骄傲的。Feeling deep pleasure or satisfaction from achievements."],
+        "usphone": "'praʊd",
+        "ukphone": "'praʊd"
+    },
+    {
+        "name": "kitten",
+        "trans": ["小猫。A young domestic cat."],
+        "usphone": "'kɪtn",
+        "ukphone": "'kɪtn"
+    },
+    {
+        "name": "fierce",
+        "trans": ["凶猛的。Having or displaying intense aggressiveness."],
+        "usphone": "'fɪrs",
+        "ukphone": "'fɪəs"
+    },
+    {
+        "name": "animals",
+        "trans": ["动物。Living organisms that feed on organic matter."],
+        "usphone": "'ænəməlz",
+        "ukphone": "'ænɪmlz"
+    },
+    {
+        "name": "monkey",
+        "trans": ["猴子。A small to medium-sized primate with a tail."],
+        "usphone": "'mʌŋki",
+        "ukphone": "'mʌŋki"
+    },
+    {
+        "name": "popped",
+        "trans": ["突然弹出。Suddenly burst or appeared."],
+        "usphone": "'pɑpt",
+        "ukphone": "'pɒpt"
+    },
+    {
+        "name": "cheetah",
+        "trans": ["猎豹。A large spotted cat known for its speed."],
+        "usphone": "'tʃiːtə",
+        "ukphone": "'tʃiːtə"
+    }
+]
