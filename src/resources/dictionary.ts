@@ -4,6 +4,17 @@ import { calcChapterCount } from '@/utils'
 // 中国考试
 const chinaExam: DictionaryResource[] = [
   {
+    id: 'el1',
+    name: 'P1 EL Term 2',
+    description: 'Spelling list',
+    category: '中国考试',
+    tags: ['小学英语'],
+    url: '/dicts/ncps_p1_el_term1.json',
+    length: 10,
+    language: 'en',
+    languageCategory: 'en',
+  },
+  {
     id: 'cet4',
     name: 'CET-4',
     description: '大学英语四级词库',
