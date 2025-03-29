@@ -1,0 +1,62 @@
+[
+    {
+        "name": "pie",
+        "trans": ["馅饼，派"],
+        "usphone": "'paɪ",
+        "ukphone": "'paɪ"
+    },
+    {
+        "name": "tea",
+        "trans": ["茶"],
+        "usphone": "'ti",
+        "ukphone": "'tiː"
+    },
+    {
+        "name": "tiger",
+        "trans": ["老虎"],
+        "usphone": "'taɪɡɚ",
+        "ukphone": "'taɪɡə"
+    },
+    {
+        "name": "agile",
+        "trans": ["敏捷的；灵活的"],
+        "usphone": "'ædʒəl",
+        "ukphone": "'ædʒaɪl"
+    },
+    {
+        "name": "lizard",
+        "trans": ["蜥蜴"],
+        "usphone": "'lɪzɚd",
+        "ukphone": "'lɪzəd"
+    },
+    {
+        "name": "sticks",
+        "trans": ["棍，棒"],
+        "usphone": "'stɪks",
+        "ukphone": "'stɪks"
+    },
+    {
+        "name": "zebra",
+        "trans": ["斑马"],
+        "usphone": "'ziːbrə",
+        "ukphone": "'zɛbrə"
+    },
+    {
+        "name": "playful",
+        "trans": ["有趣的；顽皮的"],
+        "usphone": "'pleɪfl",
+        "ukphone": "'pleɪfl"
+    },
+    {
+        "name": "graceful",
+        "trans": ["优雅的"],
+        "usphone": "'greɪsfl",
+        "ukphone": "'greɪsfl"
+    },
+    {
+        "name": "hardworking",
+        "trans": ["勤奋的"],
+        "usphone": "ˌhɑrd'wɜrkɪŋ",
+        "ukphone": "ˌhɑːd'wɜːkɪŋ"
+    }
+]
