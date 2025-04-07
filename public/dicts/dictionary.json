@@ -2310,12 +2310,6 @@
         "trans": ["n. 尺度，标准，准则"]
     },
     {
-        "usphone": "[kənˈsʌlt]",
-        "ukphone": "[kənˈsʌlt]",
-        "name": "consult",
-        "trans": ["v. 咨询，请教；商量，商讨；查询，查阅；当顾问\nvi. 请教；商议；当顾问"]
-    },
-    {
         "usphone": "[ˌeksɪˈbɪʃn]",
         "ukphone": "[ˌeksɪˈbɪʃn]",
         "name": "exhibition",
@@ -2502,16 +2496,10 @@
         "trans": ["n.挖掘机；开凿者；打洞机；挖泥工"]
     },
     {
-        "usphone": "",
-        "ukphone": "",
-        "name": "crayon",
-        "trans": ["n.蜡笔，有色粉笔\nvt.以蜡笔作画，用颜色粉笔画\nn.（Crayon）（英）克雷恩（人名）"]
-    },
-    {
         "usphone": "[ˈkreɪən; ˈkreɪɑːn]",
         "ukphone": "[ˈkreɪən; ˈkreɪɒn]",
-        "name": "蜡笔",
-        "trans": ["crayon"]
+        "name": "crayon",
+        "trans": ["n.蜡笔，有色粉笔\nvt.以蜡笔作画，用颜色粉笔画\nn.（Crayon）（英）克雷恩（人名）"]
     },
     {
         "usphone": "[smaɪl]",
