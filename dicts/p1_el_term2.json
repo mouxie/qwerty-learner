@@ -178,5 +178,305 @@
         "trans": ["人们；人民。Human beings collectively or a community."],
         "usphone": "'piːpəl",
         "ukphone": "'piːpl"
+    },
+    {
+        "name": "got",
+        "trans": ["得到（get的过去式）。Received or obtained something."],
+        "usphone": "'ɡɑt",
+        "ukphone": "'ɡɒt"
+    },
+    {
+        "name": "ran",
+        "trans": ["跑（run的过去式）。Moved rapidly on foot."],
+        "usphone": "'ræn",
+        "ukphone": "'ræn"
+    },
+    {
+        "name": "hit",
+        "trans": ["击打。Struck with force."],
+        "usphone": "'hɪt",
+        "ukphone": "'hɪt"
+    },
+    {
+        "name": "took",
+        "trans": ["拿取（take的过去式）。Picked up or carried something."],
+        "usphone": "'tʊk",
+        "ukphone": "'tʊk"
+    },
+    {
+        "name": "want",
+        "trans": ["想要。Desire to possess or do something."],
+        "usphone": "'wɑnt",
+        "ukphone": "'wɒnt"
+    },
+    {
+        "name": "looked",
+        "trans": ["看（look的过去式）。Directed one's gaze toward something."],
+        "usphone": "'lʊkt",
+        "ukphone": "'lʊkt"
+    },
+    {
+        "name": "roared",
+        "trans": ["咆哮。Made a loud, deep sound like a lion."],
+        "usphone": "'rɔrd",
+        "ukphone": "'rɔːd"
+    },
+    {
+        "name": "found",
+        "trans": ["发现（find的过去式）。Discovered something."],
+        "usphone": "'faʊnd",
+        "ukphone": "'faʊnd"
+    },
+    {
+        "name": "zoomed",
+        "trans": ["快速移动。Moved rapidly with a humming sound."],
+        "usphone": "'zumd",
+        "ukphone": "'zuːmd"
+    },
+    {
+        "name": "frightened",
+        "trans": ["受惊的。Feeling sudden fear or alarm."],
+        "usphone": "'fraɪtnd",
+        "ukphone": "'fraɪtnd"
+    },
+    {
+        "name": "sip",
+        "trans": ["啜饮。Drink in small quantities."],
+        "usphone": "'sɪp",
+        "ukphone": "'sɪp"
+    },
+    {
+        "name": "eggs",
+        "trans": ["鸡蛋。Oval reproductive objects laid by birds."],
+        "usphone": "'ɛɡz",
+        "ukphone": "'ɛɡz"
+    },
+    {
+        "name": "dark",
+        "trans": ["黑暗的。With little or no light."],
+        "usphone": "'dɑrk",
+        "ukphone": "'dɑːk"
+    },
+    {
+        "name": "jelly",
+        "trans": ["果冻。Sweet gelatinous dessert made from fruit juice."],
+        "usphone": "'ʤɛli",
+        "ukphone": "'ʤɛli"
+    },
+    {
+        "name": "baby",
+        "trans": ["婴儿。Very young human or animal."],
+        "usphone": "'beɪbi",
+        "ukphone": "'beɪbi"
+    },
+    {
+        "name": "drink",
+        "trans": ["喝。Swallow liquid as refreshment."],
+        "usphone": "'drɪŋk",
+        "ukphone": "'drɪŋk"
+    },
+    {
+        "name": "queen",
+        "trans": ["女王；蜂王。Female ruler or reproductive female in a colony."],
+        "usphone": "'kwin",
+        "ukphone": "'kwiːn"
+    },
+    {
+        "name": "tunnel",
+        "trans": ["隧道。Underground passage dug through soil."],
+        "usphone": "'tʌnəl",
+        "ukphone": "'tʌnl"
+    },
+    {
+        "name": "scurry",
+        "trans": ["急匆匆跑动。Move hurriedly with quick short steps."],
+        "usphone": "'skɜːri",
+        "ukphone": "'skʌri"
+    },
+    {
+        "name": "nibble",
+        "trans": ["小口咬。Take small bites gently."],
+        "usphone": "'nɪbl",
+        "ukphone": "'nɪbl"
+    },
+    {
+        "name": "lay",
+        "trans": ["放置；产卵。Put something down gently or submit to an action."],
+        "usphone": "'leɪ",
+        "ukphone": "'leɪ"
+    },
+    {
+        "name": "come",
+        "trans": ["来。Move toward or arrive at a specified place."],
+        "usphone": "'kʌm",
+        "ukphone": "'kʌm"
+    },
+    {
+        "name": "down",
+        "trans": ["向下。Toward a lower position or level."],
+        "usphone": "'daʊn",
+        "ukphone": "'daʊn"
+    },
+    {
+        "name": "more",
+        "trans": ["更多的。A greater quantity or additional amount."],
+        "usphone": "'mɔr",
+        "ukphone": "'mɔː"
+    },
+    {
+        "name": "hush",
+        "trans": ["安静。Make someone be quiet or calm."],
+        "usphone": "'hʌʃ",
+        "ukphone": "'hʌʃ"
+    },
+    {
+        "name": "bring",
+        "trans": ["带来。Take or carry something to a place."],
+        "usphone": "'brɪŋ",
+        "ukphone": "'brɪŋ"
+    },
+    {
+        "name": "slowly",
+        "trans": ["缓慢地。At a low speed or gradual pace."],
+        "usphone": "'sloʊli",
+        "ukphone": "'sləʊli"
+    },
+    {
+        "name": "hurry",
+        "trans": ["匆忙。Move or act with great haste."],
+        "usphone": "'hɜːri",
+        "ukphone": "'hʌri"
+    },
+    {
+        "name": "royal",
+        "trans": ["皇室的。Relating to a king or queen."],
+        "usphone": "'rɔɪəl",
+        "ukphone": "'rɔɪəl"
+    },
+    {
+        "name": "eating",
+        "trans": ["吃（eat的进行式）。Consuming food."],
+        "usphone": "'itɪŋ",
+        "ukphone": "'iːtɪŋ"
+    },
+    {
+        "name": "large",
+        "trans": ["大的。Of considerable size or extent."],
+        "usphone": "'lɑrdʒ",
+        "ukphone": "'lɑːdʒ"
+    },
+    {
+        "name": "stare",
+        "trans": ["凝视。Look fixedly with wide-open eyes."],
+        "usphone": "'stɛr",
+        "ukphone": "'steə"
+    },
+    {
+        "name": "tasty",
+        "trans": ["美味的。Having a pleasant flavor."],
+        "usphone": "'teɪsti",
+        "ukphone": "'teɪsti"
+    },
+    {
+        "name": "splash",
+        "trans": ["溅起。Cause liquid to scatter in drops."],
+        "usphone": "'splæʃ",
+        "ukphone": "'splæʃ"
+    },
+    {
+        "name": "fluffy",
+        "trans": ["蓬松的。Soft and light in texture."],
+        "usphone": "'flʌfi",
+        "ukphone": "'flʌfi"
+    },
+    {
+        "name": "tricked",
+        "trans": ["欺骗（trick的过去式）。Deceived someone through cunning."],
+        "usphone": "'trɪkt",
+        "ukphone": "'trɪkt"
+    },
+    {
+        "name": "seconds",
+        "trans": ["秒（复数）；第二的。Units of time or following first."],
+        "usphone": "'sɛkəndz",
+        "ukphone": "'sɛkəndz"
+    },
+    {
+        "name": "wearing",
+        "trans": ["穿着（wear的进行式）。Having clothes or accessories on the body."],
+        "usphone": "'wɛrɪŋ",
+        "ukphone": "'weərɪŋ"
+    },
+    {
+        "name": "moment",
+        "trans": ["瞬间。A brief period of time."],
+        "usphone": "'moʊmənt",
+        "ukphone": "'məʊmənt"
+    },
+    {
+        "name": "whizzing",
+        "trans": ["呼啸而过（whiz的进行式）。Move quickly with a buzzing sound."],
+        "usphone": "'wɪzɪŋ",
+        "ukphone": "'wɪzɪŋ"
+    },
+    {
+        "name": "hat",
+        "trans": ["帽子。A head covering for protection or fashion."],
+        "usphone": "'hæt",
+        "ukphone": "'hæt"
+    },
+    {
+        "name": "mat",
+        "trans": ["垫子。A flat piece of material used as a floor covering."],
+        "usphone": "'mæt",
+        "ukphone": "'mæt"
+    },
+    {
+        "name": "bed",
+        "trans": ["床。A piece of furniture for sleeping."],
+        "usphone": "'bɛd",
+        "ukphone": "'bed"
+    },
+    {
+        "name": "sad",
+        "trans": ["悲伤的。Feeling sorrow or unhappiness."],
+        "usphone": "'sæd",
+        "ukphone": "'sæd"
+    },
+    {
+        "name": "lost",
+        "trans": ["丢失的（lose的过去式）。Unable to find one's way."],
+        "usphone": "'lɔst",
+        "ukphone": "'lɒst"
+    },
+    {
+        "name": "shelf",
+        "trans": ["架子。A flat horizontal surface for storing objects."],
+        "usphone": "'ʃɛlf",
+        "ukphone": "'ʃɛlf"
+    },
+    {
+        "name": "chairs",
+        "trans": ["椅子（复数）。Seats with a back and legs."],
+        "usphone": "'tʃɛrz",
+        "ukphone": "'tʃeəz"
+    },
+    {
+        "name": "cannot",
+        "trans": ["不能。Be unable to do something."],
+        "usphone": "'kænɑt",
+        "ukphone": "'kænɒt"
+    },
+    {
+        "name": "everywhere",
+        "trans": ["到处。In all places or locations."],
+        "usphone": "'ɛvriwɛr",
+        "ukphone": "'evriweə"
+    },
+    {
+        "name": "refrigerator",
+        "trans": ["冰箱。An appliance for keeping food cold."],
+        "usphone": "rɪ'frɪdʒəreɪtɚ",
+        "ukphone": "rɪ'frɪdʒəreɪtə"
     }
 ]
