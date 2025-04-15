@@ -10,7 +10,7 @@ const chinaExam: DictionaryResource[] = [
     category: '中国考试',
     tags: ['小学英语'],
     url: '/dicts/p1_el_term2.json',
-    length: 30,
+    length: 80,
     language: 'en',
     languageCategory: 'en',
   },
