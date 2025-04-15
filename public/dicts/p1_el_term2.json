@@ -1,0 +1,182 @@
+[
+    {
+        "name": "pie",
+        "trans": ["馅饼，派。A baked dish with a pastry crust, typically filled with fruit or meat."],
+        "usphone": "'paɪ",
+        "ukphone": "'paɪ"
+    },
+    {
+        "name": "tea",
+        "trans": ["茶。A hot drink made by infusing dried leaves of the tea plant in boiling water."],
+        "usphone": "'ti",
+        "ukphone": "'tiː"
+    },
+    {
+        "name": "tiger",
+        "trans": ["老虎。A large wild cat with a yellow-orange coat with black stripes."],
+        "usphone": "'taɪɡɚ",
+        "ukphone": "'taɪɡə"
+    },
+    {
+        "name": "agile",
+        "trans": ["敏捷的；灵活的。Quick and well-coordinated in movement or thought."],
+        "usphone": "'ædʒəl",
+        "ukphone": "'ædʒaɪl"
+    },
+    {
+        "name": "lizard",
+        "trans": ["蜥蜴。A reptile with a long body and tail, typically having dry scaly skin."],
+        "usphone": "'lɪzɚd",
+        "ukphone": "'lɪzəd"
+    },
+    {
+        "name": "sticks",
+        "trans": ["棍，棒。Long, thin pieces of wood used for various purposes."],
+        "usphone": "'stɪks",
+        "ukphone": "'stɪks"
+    },
+    {
+        "name": "zebra",
+        "trans": ["斑马。An African wild horse with black-and-white stripes."],
+        "usphone": "'ziːbrə",
+        "ukphone": "'zɛbrə"
+    },
+    {
+        "name": "playful",
+        "trans": ["有趣的；顽皮的。Fond of games and amusement; lighthearted."],
+        "usphone": "'pleɪfl",
+        "ukphone": "'pleɪfl"
+    },
+    {
+        "name": "graceful",
+        "trans": ["优雅的。Having elegance or beauty of movement, form, or manner."],
+        "usphone": "'greɪsfl",
+        "ukphone": "'greɪsfl"
+    },
+    {
+        "name": "hardworking",
+        "trans": ["勤奋的。Diligent and industrious in one's efforts or work."],
+        "usphone": "ˌhɑrd'wɜrkɪŋ",
+        "ukphone": "ˌhɑːd'wɜːkɪŋ"
+    },
+    {
+        "name": "fox",
+        "trans": ["狐狸。A carnivorous mammal with a bushy tail and reddish fur."],
+        "usphone": "'fɑks",
+        "ukphone": "'fɒks"
+    },
+    {
+        "name": "fast",
+        "trans": ["快的。Moving or capable of moving at high speed."],
+        "usphone": "'fæst",
+        "ukphone": "'fɑːst"
+    },
+    {
+        "name": "busy",
+        "trans": ["忙碌的。Actively engaged in work or occupied."],
+        "usphone": "'bɪzi",
+        "ukphone": "'bɪzi"
+    },
+    {
+        "name": "proud",
+        "trans": ["骄傲的。Feeling deep pleasure or satisfaction from achievements."],
+        "usphone": "'praʊd",
+        "ukphone": "'praʊd"
+    },
+    {
+        "name": "kitten",
+        "trans": ["小猫。A young domestic cat."],
+        "usphone": "'kɪtn",
+        "ukphone": "'kɪtn"
+    },
+    {
+        "name": "fierce",
+        "trans": ["凶猛的。Having or displaying intense aggressiveness."],
+        "usphone": "'fɪrs",
+        "ukphone": "'fɪəs"
+    },
+    {
+        "name": "animals",
+        "trans": ["动物。Living organisms that feed on organic matter."],
+        "usphone": "'ænəməlz",
+        "ukphone": "'ænɪmlz"
+    },
+    {
+        "name": "monkey",
+        "trans": ["猴子。A small to medium-sized primate with a tail."],
+        "usphone": "'mʌŋki",
+        "ukphone": "'mʌŋki"
+    },
+    {
+        "name": "popped",
+        "trans": ["突然弹出。Suddenly burst or appeared."],
+        "usphone": "'pɑpt",
+        "ukphone": "'pɒpt"
+    },
+    {
+        "name": "cheetah",
+        "trans": ["猎豹。A large spotted cat known for its speed."],
+        "usphone": "'tʃiːtə",
+        "ukphone": "'tʃiːtə"
+    },
+    {
+        "name": "bees",
+        "trans": ["蜜蜂。Flying insects known for pollination and producing honey."],
+        "usphone": "'biz",
+        "ukphone": "'biːz"
+    },
+    {
+        "name": "food",
+        "trans": ["食物。Substances consumed to provide nutritional support."],
+        "usphone": "'fud",
+        "ukphone": "'fuːd"
+    },
+    {
+        "name": "giant",
+        "trans": ["巨大的；巨人。Extremely large in size or power."],
+        "usphone": "'ʤaɪənt",
+        "ukphone": "'ʤaɪənt"
+    },
+    {
+        "name": "honey",
+        "trans": ["蜂蜜。A sweet viscous substance produced by bees."],
+        "usphone": "'hʌni",
+        "ukphone": "'hʌni"
+    },
+    {
+        "name": "butter",
+        "trans": ["黄油。A dairy product made by churning cream."],
+        "usphone": "'bʌtɚ",
+        "ukphone": "'bʌtə"
+    },
+    {
+        "name": "scared",
+        "trans": ["害怕的。Feeling fear or anxiety."],
+        "usphone": "'skɛrd",
+        "ukphone": "'skeəd"
+    },
+    {
+        "name": "bread",
+        "trans": ["面包。A staple food made from flour and water, baked."],
+        "usphone": "'brɛd",
+        "ukphone": "'bred"
+    },
+    {
+        "name": "hungry",
+        "trans": ["饥饿的。Having a desire or need for food."],
+        "usphone": "'hʌŋɡri",
+        "ukphone": "'hʌŋɡri"
+    },
+    {
+        "name": "beehive",
+        "trans": ["蜂箱。A structure where bees live and store honey."],
+        "usphone": "'biˌhaɪv",
+        "ukphone": "'biːhaɪv"
+    },
+    {
+        "name": "people",
+        "trans": ["人们；人民。Human beings collectively or a community."],
+        "usphone": "'piːpəl",
+        "ukphone": "'piːpl"
+    }
+]
