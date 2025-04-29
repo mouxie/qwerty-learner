@@ -4986,18 +4986,6 @@
         "trans": ["adv. 勤奋地；勤勉地"]
     },
     {
-        "usphone": "[,vaisi'və:sə]",
-        "ukphone": "[,vaisi'və:sə]",
-        "name": "vice versa",
-        "trans": ["反之亦然"]
-    },
-    {
-        "usphone": "",
-        "ukphone": "",
-        "name": "and vice versa",
-        "trans": ["反之亦然；反过来也一样"]
-    },
-    {
         "usphone": "[ˈpɜːpətreɪtər]",
         "ukphone": "[ˈpɜːpətreɪtər]",
         "name": "perpetrator",
@@ -5134,12 +5122,6 @@
         "ukphone": "[fəˈlɒsəfi]",
         "name": "philosophy",
         "trans": ["n. 哲学；哲理；人生观"]
-    },
-    {
-        "usphone": "[ˈliːvərɪdʒ]",
-        "ukphone": "[ˈliːvərɪdʒ]",
-        "name": "leverage",
-        "trans": ["n. 手段，影响力；杠杆作用；杠杆效率\nv. 利用；举债经营"]
     },
     {
         "usphone": "[ˈprɪnsəpl]",
