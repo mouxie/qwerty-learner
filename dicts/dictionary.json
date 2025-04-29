@@ -600,12 +600,6 @@
         "trans": ["n. 监视，监察"]
     },
     {
-        "usphone": "[ˈpremɪs]",
-        "ukphone": "[ˈpremɪs]",
-        "name": "on-premise",
-        "trans": ["adj. 预置的"]
-    },
-    {
         "usphone": "[ˈsɪəriːz]",
         "ukphone": "[ˈsɪəriːz]",
         "name": "Series",
@@ -1719,7 +1713,7 @@
         "usphone": "[bɪˈhɑːf]",
         "ukphone": "[bɪˈhɑːf]",
         "name": "behalf",
-        "trans": ["n. 代表（on behalf of）；因为，为了\u2026\u2026的利益（in/on behalf of）；就\u2026\u2026而言，在\u2026\u2026一方（on behalf of）"]
+        "trans": ["n.代表；利益；为了"]
     },
     {
         "usphone": "[ɪɡˈzɪstɪd]",
@@ -3702,12 +3696,6 @@
         "trans": ["n. 骨架，骨骼；纲要；骨瘦如柴的人\nadj. 骨骼的；骨瘦如柴的；概略的"]
     },
     {
-        "usphone": "[dɪˈtɜːmɪn]",
-        "ukphone": "[dɪˈtɜːmɪn]",
-        "name": "determine",
-        "trans": ["v. （使）下决心，（使）做出决定\nvt. 决定，确定；判定，判决；限定\nvi. 确定；决定；判决，终止；[主用于法律]了结，终止，结束"]
-    },
-    {
         "usphone": "[ˌɪntəˈlektʃuəl]",
         "ukphone": "[ˌɪntəˈlektʃuəl]",
         "name": "intellectual",
@@ -4006,18 +3994,6 @@
         "ukphone": "[ˌaʊtˈsaɪd]",
         "name": "outside",
         "trans": ["n. 外部；外观；（建筑物等的）周围；（靠近路中央的）对侧；（弯曲路面或轨面的）外道\nadj. 外面的，外部的；外来的；不相关的；主建筑物以外的；不可能的\nprep. 在\u2026\u2026外面；在\u2026\u2026范围之外；离开\nadv. 在外面，向外面；在室外"]
-    },
-    {
-        "usphone": "",
-        "ukphone": "",
-        "name": "behalf",
-        "trans": ["n.代表；利益"]
-    },
-    {
-        "usphone": "",
-        "ukphone": "",
-        "name": "on behalf of",
-        "trans": ["代表；为了"]
     },
     {
         "usphone": "",
@@ -4650,12 +4626,6 @@
         "trans": ["vt. 显示；透露；揭露；泄露\nn. 揭露；暴露；门侧，窗侧"]
     },
     {
-        "usphone": "[kəmˈpəʊnənt]",
-        "ukphone": "[kəmˈpəʊnənt]",
-        "name": "component",
-        "trans": ["n. 组成部分；成分；组件，元件\nadj. 组成的；构成的"]
-    },
-    {
         "usphone": "[ˈkærəktə(r)]",
         "ukphone": "[ˈkærəktə(r)]",
         "name": "character",
@@ -4776,12 +4746,6 @@
         "trans": ["代替；而不是\u2026"]
     },
     {
-        "usphone": "",
-        "ukphone": "",
-        "name": "premise",
-        "trans": ["n.前提，假定；（常复数）商店、餐馆、公司等使用的房屋及土地；（常复数）上诉各项\nv.以\u2026\u2026为前提；引出，预先提出；说明"]
-    },
-    {
         "usphone": "[kəˈneəri]",
         "ukphone": "[kəˈneəri]",
         "name": "canary",
@@ -4792,12 +4756,6 @@
         "ukphone": "",
         "name": "requisite",
         "trans": ["adj.必备的，必不可少的；需要的\nn.必需品"]
-    },
-    {
-        "usphone": "[ˈɪnfrəstrʌktʃə(r)]",
-        "ukphone": "[ˈɪnfrəstrʌktʃə(r)]",
-        "name": "infrastructure",
-        "trans": ["n. 基础设施；公共建设；下部构造"]
     },
     {
         "usphone": "",
@@ -5454,12 +5412,6 @@
         "trans": ["n. 起床者；起义者；竖板；叛徒\nn. 人名；(英)赖泽"]
     },
     {
-        "usphone": "[ˌheksəˈdesɪml]",
-        "ukphone": "[ˌheksəˈdesɪml]",
-        "name": "hexadecimal",
-        "trans": ["adj. 十六进制的\nn. 十六进制"]
-    },
-    {
         "usphone": "dʒiˈɑːmətri",
         "ukphone": "/dʒiːˈɒmɪtɹi/",
         "name": "geometry",
@@ -5566,12 +5518,6 @@
         "ukphone": "[kənˈsjuːmər]",
         "name": "consumer",
         "trans": ["n. 消费者；用户，顾客"]
-    },
-    {
-        "usphone": "[rɪˈdʌndənt]",
-        "ukphone": "[rɪˈdʌndənt]",
-        "name": "redundant",
-        "trans": ["adj. 多余的，过剩的；被解雇的，失业的；冗长的，累赘的"]
     },
     {
         "usphone": "[ˌiːvəˈluːʃn; ˌevəˈluːʃn]",
@@ -6370,18 +6316,6 @@
         "ukphone": "[ˈpɑːʃəli]",
         "name": "partially",
         "trans": ["adv. 部分地；偏袒地"]
-    },
-    {
-        "usphone": "[diːˈkrɪpt]",
-        "ukphone": "[diːˈkrɪpt]",
-        "name": "decrypted",
-        "trans": ["vt. 译电文；解密码；解释"]
-    },
-    {
-        "usphone": "[diːˈkrɪpt]",
-        "ukphone": "[diːˈkrɪpt]",
-        "name": "decrypt",
-        "trans": ["vt. 译电文；解密码；解释"]
     },
     {
         "usphone": "",
@@ -8142,12 +8076,6 @@
         "trans": ["n. 候选人，候补者；应试者"]
     },
     {
-        "usphone": "[ˈprɒmptli]",
-        "ukphone": "[ˈprɒmptli]",
-        "name": "promptly",
-        "trans": ["adv. 迅速地；立即地；敏捷地"]
-    },
-    {
         "usphone": "[krɪpˈtɒɡrəfi]",
         "ukphone": "[krɪpˈtɒɡrəfi]",
         "name": "cryptography",
@@ -8158,12 +8086,6 @@
         "ukphone": "[əˈraɪz]",
         "name": "arise",
         "trans": ["vi. 出现；上升；起立\nn. (Arise) （美、印、德、英）阿里塞（人名）"]
-    },
-    {
-        "usphone": "[əˈplɪkəbl; ˈæplɪkəbl]",
-        "ukphone": "[əˈplɪkəbl; ˈæplɪkəbl]",
-        "name": "applicable",
-        "trans": ["adj. 可适用的；可应用的；合适的"]
     },
     {
         "usphone": "[ˈaʊtɪdʒ]",
@@ -8514,12 +8436,6 @@
         "trans": ["n. 并发症；复杂；复杂化；混乱"]
     },
     {
-        "usphone": "[ˈmændərɪn]",
-        "ukphone": "[ˈmændərɪn]",
-        "name": "Mandarin",
-        "trans": ["n. 普通话\nn. （俄、英、美）曼达林（人名）"]
-    },
-    {
         "usphone": "[ˈkænsl]",
         "ukphone": "[ˈkænsl]",
         "name": "cancel",
@@ -8536,12 +8452,6 @@
         "ukphone": "[ˈwɒrənti]",
         "name": "warranty",
         "trans": ["n. 保证；担保；授权；（正当）理由"]
-    },
-    {
-        "usphone": "[rɪ'teɪn]",
-        "ukphone": "[rɪ'teɪn]",
-        "name": "retain",
-        "trans": ["vt. 保持；雇；记住"]
     },
     {
         "usphone": "[ˈpɪəriəd]",
@@ -8632,12 +8542,6 @@
         "ukphone": "[rɪ'vaɪzd]",
         "name": "revised",
         "trans": ["adj. 改进的\nv. 修改；校订；复习（过去分词形式）"]
-    },
-    {
-        "usphone": "[ˈdeprəkeɪtɪd]",
-        "ukphone": "[ˈdeprəkeɪtɪd]",
-        "name": "Deprecated",
-        "trans": ["v. 不赞成；弃用；不宜用（过去式及过去分词形式）"]
     },
     {
         "usphone": "['fɜːðə]",
@@ -8908,12 +8812,6 @@
         "ukphone": "[prɪ'zɜːv]",
         "name": "preserve",
         "trans": ["vt. 保存；保护；维持；腌；禁猎\nn. 保护区；禁猎地；加工成的食品；（某人或群体的）专门活动"]
-    },
-    {
-        "usphone": "[əˈprəʊpriət]",
-        "ukphone": "[əˈprəʊpriət]",
-        "name": "appropriate",
-        "trans": ["adj. 适当的；恰当的；合适的\nvt. 占用，拨出"]
     },
     {
         "usphone": "",
