@@ -3666,12 +3666,6 @@
         "trans": ["vt.掷；翻转；轻击\nvi.翻转；蹦跳\nadj.无礼的；轻率的\nn.弹；筋斗"]
     },
     {
-        "usphone": "[kəmˈpætəbl]",
-        "ukphone": "[kəmˈpætəbl]",
-        "name": "compatible",
-        "trans": ["adj. 兼容的；能共处的；可并立的"]
-    },
-    {
         "usphone": "[ˈfɔːdʒəri]",
         "ukphone": "[ˈfɔːdʒəri]",
         "name": "forgery",
@@ -3972,12 +3966,6 @@
         "trans": ["n. 重构\nvt. 重构"]
     },
     {
-        "usphone": "",
-        "ukphone": "",
-        "name": "backward compatible",
-        "trans": ["向后兼容"]
-    },
-    {
         "usphone": "[ˈbiːtə]",
         "ukphone": "[ˈbiːtə]",
         "name": "beta",
@@ -4192,12 +4180,6 @@
         "ukphone": "",
         "name": "positive",
         "trans": ["adj.积极的；[数] 正的，[医][化学] 阳性的；确定的，肯定的；实际的，真实的；绝对的\nn.正数；[摄] 正片"]
-    },
-    {
-        "usphone": "",
-        "ukphone": "",
-        "name": "approximate",
-        "trans": ["adj.近似的，大概的\nv.接近，近似；粗略估计"]
     },
     {
         "usphone": "",
@@ -5016,12 +4998,6 @@
         "trans": ["尽职调查"]
     },
     {
-        "usphone": "[ˈbraɪbəri]",
-        "ukphone": "[ˈbraɪbəri]",
-        "name": "bribery",
-        "trans": ["n. [法] 贿赂；受贿；行贿"]
-    },
-    {
         "usphone": "[ˈmɪlətri]",
         "ukphone": "[ˈmɪlətri]",
         "name": "military",
@@ -5763,7 +5739,7 @@
         "usphone": "[kəmˈpætəbl wɪð]",
         "ukphone": "[kəmˈpætəbl wɪð]",
         "name": "compatible with",
-        "trans": ["adj. 与\u2026\u2026和谐相处；与\u2026\u2026相配的"]
+        "trans": ["adj. 与\u2026\u2026和谐相处；与\u2026\u2026相配的;adj. 兼容的；能共处的；可并立的"]
     },
     {
         "usphone": "",
@@ -5890,12 +5866,6 @@
         "ukphone": "",
         "name": "go along with",
         "trans": ["赞同；陪\u2026一起去"]
-    },
-    {
-        "usphone": "",
-        "ukphone": "/ˈtɛmpə/",
-        "name": "temper",
-        "trans": ["n.脾气；（钢等）回火；性情；倾向\nvt.使回火；锻炼；调和；使缓和\nvi.回火；调和"]
     },
     {
         "usphone": "",
@@ -6250,12 +6220,6 @@
         "ukphone": "/ˈsteɪ.pəl/",
         "name": "staple",
         "trans": ["n.主要产品；订书钉；主题；主食\nadj.主要的，大宗生产的；常用的；纺织纤维的\nvt.把\u2026分级；钉住"]
-    },
-    {
-        "usphone": "",
-        "ukphone": "",
-        "name": "detective movie",
-        "trans": ["侦探片"]
     },
     {
         "usphone": "",
@@ -7616,12 +7580,6 @@
     {
         "usphone": "",
         "ukphone": "",
-        "name": "knock",
-        "trans": ["vi.敲；打；敲击\nvt.敲；打；敲击；批评\nn.敲；敲打；爆震声"]
-    },
-    {
-        "usphone": "",
-        "ukphone": "",
         "name": "trespassing",
         "trans": ["n.擅自进入\nv.侵入；犯罪（trespass的ing形式）"]
     },
@@ -8178,12 +8136,6 @@
         "trans": ["n. 壶；[化工] 釜；罐；鼓\nn. 人名；(英)凯特尔"]
     },
     {
-        "usphone": "[hiːl]",
-        "ukphone": "[hiːl]",
-        "name": "heel",
-        "trans": ["n. 脚后跟；踵\nvt. 倾侧\nvi. 倾侧\nn. 人名；(德)黑尔"]
-    },
-    {
         "usphone": "[ˈmjuːtʃuəl]",
         "ukphone": "[ˈmjuːtʃuəl]",
         "name": "mutual",
@@ -8266,12 +8218,6 @@
         "ukphone": "[kɒf]",
         "name": "cough",
         "trans": ["n. 咳嗽，咳嗽声；咳嗽病 \nvt. 咳出 \nvi. 咳嗽 \nn. 人名；(英)考夫"]
-    },
-    {
-        "usphone": "[ˈpaɪlɪŋ]",
-        "ukphone": "[ˈpaɪlɪŋ]",
-        "name": "piling up",
-        "trans": ["堆起"]
     },
     {
         "usphone": "[hɪˈspænɪk]",
@@ -8736,12 +8682,6 @@
         "trans": ["adj. 模糊不清的，模棱两可的；不明确的，不明朗的；引起歧义的"]
     },
     {
-        "usphone": "[plʌɡ]",
-        "ukphone": "[plʌɡ]",
-        "name": "plug",
-        "trans": ["n. 插头；塞子；栓\nvi. 塞住；用插头将与电源接通\nvt. 插入；塞住；接插头"]
-    },
-    {
         "usphone": "['traɪəl]",
         "ukphone": "['traɪəl]",
         "name": "trial",
@@ -8973,6 +8913,6 @@
         "usphone": "[nɑːk][daʊn]",
         "ukphone": "[nɒk][daʊn]",
         "name": "knock down",
-        "trans": ["击倒；拆卸"]
+        "trans": ["击倒；拆卸; 1:vi.敲；打；敲击\nvt.敲；打；敲击；批评\nn.敲；敲打；"]
     }
 ]
