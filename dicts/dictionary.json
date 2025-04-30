@@ -3120,6 +3120,150 @@
         "trans": ["n.羞耻，羞愧；憾事，带来耻辱的人\nvt.使丢脸，使羞愧\nn.人名；(科特)沙梅"]
     },
     {
+        "name": "quantify",
+        "trans": ["v. 测定……的数量，用数量表示，量化；用量词限定（术语，命题）"],
+        "usphone": "ˈkwɑːntɪfaɪ",
+        "ukphone": "ˈkwɒntɪfaɪ"
+    },
+    {
+        "name": "aging population",
+        "trans": ["人口老龄化：指一个国家或地区的人口中老年人口比例增加的现象。"],
+        "usphone": "'eɪdʒɪŋ ˌpɑːpjuˈleɪʃn",
+        "ukphone": "'eɪdʒɪŋ ˌpɒpjuˈleɪʃən"
+    },
+    {
+        "name": "chronic",
+        "trans": ["adj. （疾病）慢性的，长期的；（问题）一直有的，反复出现的；难以根除的，积习难改的；<英，非正式>糟透的，拙劣的"],
+        "usphone": "'krɑːnɪk",
+        "ukphone": "'krɒnɪk"
+    },
+    {
+        "name": "alumni",
+        "trans": ["n. 校友，毕业生（alumnus 的复数）"],
+        "usphone": "əˈlʌmnaɪ",
+        "ukphone": "əˈlʌmnaɪ"
+    },
+    {
+        "name": "concierge",
+        "trans": ["n. 门房；看门人"],
+        "usphone": "ˌkɑːnsiˈerʒ",
+        "ukphone": "ˈkɒnsɪeəʒ"
+    },
+    {
+        "name": "pentagon", 
+        "trans": ["n.五边形，五角形；五角大楼（指美国国防部）"],
+        "usphone": "'pentəɡɑːn",
+        "ukphone": "'pentəɡən"
+    },
+    {
+        "name": "crescent",
+        "trans": ["n.新月形，月牙形；新月（伊斯兰教的象征）"],
+        "usphone": "'krɛsənt", 
+        "ukphone": "'krɛznt"
+    },
+    {
+        "name": "oasis",
+        "trans": ["n.（沙漠中的）绿洲；（困苦中）令人快慰的地方"],
+        "usphone": "oʊˈeɪsɪs",
+        "ukphone": "əʊˈeɪsɪs"
+    },
+    {
+        "name": "attire",
+        "trans": ["n.服装，衣服 | v.着装"],
+        "usphone": "əˈtaɪər",
+        "ukphone": "əˈtaɪə"
+    },
+    {
+        "name": "decommission",
+        "trans": ["v. 关闭，拆除（核武器等）；使（船）退役，报废"],
+        "usphone": "ˌdiːkəˈmɪʃn",
+        "ukphone": "ˌdiːkəˈmɪʃn"
+    },
+    {
+        "name": "trumpeted",
+        "trans": ["v．吹喇叭；大声宣扬，吹嘘"],
+        "usphone": "'trʌmpɪtɪd",
+        "ukphone": "'trʌmpɪtɪd"
+    },
+    {
+        "name": "steering committee",
+        "trans": ["管理或指导委员会"],
+        "usphone": "'stɪrɪŋ kəˌmɪti",
+        "ukphone": "'stɪərɪŋ kəˌmɪti"
+    },
+    {
+        "name": "tariff",
+        "trans": ["n. 关税，关税表；价目表"],
+        "usphone": "'tærɪf",
+        "ukphone": "'tærɪf"
+    },
+    {
+        "name": "prescription",
+        "trans": ["n. 处方，药方；解决方法"],
+        "usphone": "prɪˈskrɪpʃn",
+        "ukphone": "prɪˈskrɪpʃn"
+    },
+    {
+        "name": "hassle",
+        "trans": ["n.麻烦，困难；争吵 | v.打扰"],
+        "usphone": "'hæsl", 
+        "ukphone": "'hæsəl"
+    },
+    {
+        "name": "belt buckle",
+        "trans": ["腰带扣环"],
+        "usphone": "belt 'bʌkl",
+        "ukphone": "belt 'bʌkəl"
+    },
+    {
+        "name": "tub",
+        "trans": ["n.盆，桶；浴缸"],
+        "usphone": "tʌb", 
+        "ukphone": "tʌb"
+    },
+    {
+        "name": "pronunciation",
+        "trans": ["n. 发音方法"],
+        "usphone": "prəˌnʌnsiˈeɪʃn",
+        "ukphone": "prəˌnʌnsiˈeɪʃn"
+    },
+    {
+        "name": "brioche",
+        "trans": ["n.奶油蛋卷"],
+        "usphone": "briː'oʊʃ",
+        "ukphone": "briː'ɒʃ"
+    },
+    {
+        "name": "anthropic",
+        "trans": ["adj. 有关人类的"],
+        "usphone": "ænˈθrɑːpɪk",
+        "ukphone": "ænˈθrɒpɪk"
+    },
+    {
+        "name": "Intelligence",
+        "trans": ["n. 智力；智能；情报"],
+        "usphone": "ɪnˈtelɪdʒəns",
+        "ukphone": "ɪnˈtelɪdʒəns"
+    },
+    {
+        "name": "Artificial", 
+        "trans": ["adj. 人造的；矫揉造作的"],
+        "usphone": "ˌɑːrtɪˈfɪʃl",
+        "ukphone": "ˌɑːtɪˈfɪʃl"
+    },
+    {
+        "name": "institute",
+        "trans": ["n. 研究所 | v. 制定"],
+        "usphone": "'ɪnstɪtuːt",
+        "ukphone": "'ɪnstɪtjuːt"
+    },
+    {
+        "name": "sustainability",
+        "trans": ["n. 持续性"],
+        "usphone": "səˌsteɪnəˈbɪləti",
+        "ukphone": "səˌsteɪnəˈbɪləti"
+    },
+    {
         "usphone": "breɪd",
         "ukphone": "breɪd",
         "name": "braid",
