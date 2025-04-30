@@ -2904,32 +2904,14 @@
         "trans": ["n.少妇；乡下姑娘\nvi.通奸"]
     },
     {
-        "usphone": "[rer]",
-        "ukphone": "[reə(r)]",
-        "name": "rare",
-        "trans": ["adj.稀有的；稀薄的；半熟的\nadj.杰出的；极度的；非常好的\nadv.非常；极其\nvi.用后腿站起；渴望"]
-    },
-    {
         "usphone": "[tɪt]",
         "ukphone": "[tɪt]",
         "name": "tit",
         "trans": ["n.乳头；山雀；各种小鸟；小马；少妇；轻打\nn.人名；(柬)迪；(俄)季特"]
     },
     {
-        "usphone": "[ˈniːd(ə)l]",
-        "ukphone": "[ˈniːd(ə)l]",
-        "name": "needle",
-        "trans": ["n.针；指针；刺激；针状物\nvi.缝纫；做针线\nvt.刺激；用针缝\nn.人名；(英)尼德尔"]
-    },
-    {
-        "usphone": "[ˈsoʊɪŋ]",
-        "ukphone": "[ˈsəʊɪŋ]",
-        "name": "sewing",
-        "trans": ["n.缝纫；缝纫业\nv.缝（ing形式）\nn.人名；(德)泽温；(英)索英"]
-    },
-    {
-        "usphone": "",
-        "ukphone": "",
+        "usphone": "[ˈsoʊɪŋ] [ˈniːd(ə)l]",
+        "ukphone": "[ˈsəʊɪŋ] [ˈniːd(ə)l]",
         "name": "sewing needle",
         "trans": ["缝合针，缝纫机针"]
     },
@@ -2998,12 +2980,6 @@
         "ukphone": "ɪnˈtaɪəli",
         "name": "entirely",
         "trans": ["adv.完全地，彻底地"]
-    },
-    {
-        "usphone": "tʃɑːrmz",
-        "ukphone": "tʃɑːms",
-        "name": "charms",
-        "trans": ["n.符咒；护身符（的复数形式）；吸引力"]
     },
     {
         "usphone": "ˈlɪŋɡər",
@@ -3094,12 +3070,6 @@
         "ukphone": "ɪnˈsʌlt; ˈɪnsʌlt",
         "name": "insult",
         "trans": ["v.侮辱；辱骂；损害\nn.侮辱；凌辱；无礼"]
-    },
-    {
-        "usphone": "ˈevər",
-        "ukphone": "ˈevə(r)",
-        "name": "ever",
-        "trans": ["adv.永远；曾经；究竟\nn.人名；(英)埃弗；(俄)叶韦尔；(西、法)埃韦尔"]
     },
     {
         "usphone": "hʌʃ",
