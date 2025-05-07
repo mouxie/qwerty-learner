@@ -3690,28 +3690,16 @@
         "trans": ["n.（用于法国人名前）各位先生，先生们（的复数形式）"]
     },
     {
-        "usphone": "",
-        "ukphone": "",
+        "usphone": "/deɪmz/",
+        "ukphone": "/deɪmz/",
         "name": "dames",
         "trans": ["n.女人；中年滑稽妇人（ 的复数）\nn. （美）达姆（人名）"]
     },
     {
-        "usphone": "",
-        "ukphone": "",
+        "usphone": "/ˈsɛlˌɔf/",
+        "ukphone": "/ˈselˌɒf/",
         "name": "sell-off",
         "trans": ["n.（国有企业的）出售；（证券）抛售；（低价）处理财产"]
-    },
-    {
-        "usphone": "",
-        "ukphone": "",
-        "name": "womanlike",
-        "trans": ["adj.像女人的，女子似的\nadv.女人般地"]
-    },
-    {
-        "usphone": "",
-        "ukphone": "",
-        "name": "像女人的",
-        "trans": ["womanlike\nwomanly\nwomanish"]
     },
     {
         "usphone": "[fɔːˈsiː]",
