@@ -32,7 +32,7 @@ const chinaExam: DictionaryResource[] = [
     category: '中国考试',
     tags: ['大学英语'],
     url: '/dicts/dictionary.json',
-    length: 1504,
+    length: 1501,
     language: 'en',
     languageCategory: 'en',
   },
