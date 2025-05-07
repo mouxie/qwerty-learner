@@ -3366,143 +3366,143 @@
         "trans": ["v.剪（羊或其他动物的）毛；剪（头发）；（受剪切力作用而）断裂\nn.切变\nn. （美）希尔（人名）"]
     },
     {
-        "usphone": "",
-        "ukphone": "",
-        "name": "prick",
-        "trans": ["v.戳；扎破；（使）感到刺痛；（眼泪）引起刺痛；（眼睛）发酸；（使）内心痛苦；驱使；（使）耳朵竖起\nn.扎；戳孔；沮丧；赶牛棒；笨蛋；穿刺；针刺感；（粗俚）阴茎；卑鄙的人"]
-    },
-    {
-        "usphone": "",
-        "ukphone": "",
-        "name": "stab",
-        "trans": ["vt.刺；刺伤；戳；刺穿；直入\nvi.刺；刺伤；戳；刺痛\nn.刺；戳；尝试；突发的一阵\nn.人名；(泰)萨达"]
-    },
-    {
-        "usphone": "",
-        "ukphone": "",
-        "name": "cellar",
-        "trans": ["n.地窖；酒窖；地下室\nvt.把\u2026藏入地窖\nn.人名；(捷)采拉尔"]
-    },
-    {
-        "usphone": "",
-        "ukphone": "",
-        "name": "plenty",
-        "trans": ["n.丰富，大量；充足\nadj.足够的，很多的\nadv.足够\npron.大量；充足；富裕\nn.普伦蒂（人名）"]
-    },
-    {
-        "usphone": "",
-        "ukphone": "",
-        "name": "candle",
-        "trans": ["n.蜡烛；烛光；烛形物\nvt.对着光检查"]
-    },
-    {
-        "usphone": "",
-        "ukphone": "",
-        "name": "raven",
-        "trans": ["n.掠夺，劫掠；大乌鸦\nadj.乌黑的\nvt.掠夺；狼吞虎咽\nvi.掠夺；狼吞虎咽\nn.人名；(英)雷文；(德)拉文"]
-    },
-    {
-        "usphone": "",
-        "ukphone": "",
-        "name": "outsider",
-        "trans": ["n.外人；无取胜希望者"]
-    },
-    {
-        "usphone": "",
-        "ukphone": "",
-        "name": "whore",
-        "trans": ["n.娼妓，妓女；淫妇\nv.（女子）卖淫；（男子）嫖妓；追求不道德的东西（尤指金钱）"]
-    },
-    {
-        "usphone": "",
-        "ukphone": "",
-        "name": "boar",
-        "trans": ["n.野猪；（未阉的）公猪\nn.人名；(罗)博阿尔"]
-    },
-    {
-        "usphone": "",
-        "ukphone": "",
-        "name": "skewer",
-        "trans": ["n.烤肉叉子；串肉扦；针\nvt.刺穿；串住；讽刺"]
-    },
-    {
-        "usphone": "",
-        "ukphone": "",
-        "name": "bury",
-        "trans": ["vt.埋葬；隐藏\nn.人名；(法)比里；(英、西)伯里；(德、意、罗、波、捷、匈)布里；(俄)布雷"]
-    },
-    {
-        "usphone": "",
-        "ukphone": "",
-        "name": "beast",
-        "trans": ["n.野兽；畜生，人面兽心的人"]
-    },
-    {
-        "usphone": "",
-        "ukphone": "",
-        "name": "tough",
-        "trans": ["adj.艰苦的，困难的；坚强的，不屈不挠的；坚韧的，牢固的；强壮的，结实的\nn.恶棍\nvt.坚持；忍受，忍耐\nadv.强硬地，顽强地\nn.人名；(英)图赫"]
-    },
-    {
-        "usphone": "",
-        "ukphone": "",
-        "name": "freak",
-        "trans": ["n.怪人，怪事；畸形人；反复无常\nadj.奇异的，反常的"]
-    },
-    {
-        "usphone": "",
-        "ukphone": "",
-        "name": "realm",
-        "trans": ["n.领域，范围；王国"]
-    },
-    {
-        "usphone": "",
-        "ukphone": "",
-        "name": "coward",
-        "trans": ["n.懦夫，懦弱的人\nadj.胆小的，懦怯的\nn.人名；(英)科沃德"]
-    },
-    {
-        "usphone": "",
-        "ukphone": "",
-        "name": "saddle",
-        "trans": ["n.鞍，鞍状物；车座；拖具\nvt.承受；使负担；装以马鞍\nvi.跨上马鞍"]
-    },
-    {
-        "usphone": "",
-        "ukphone": "",
-        "name": "oath",
-        "trans": ["n.誓言，誓约；诅咒，咒骂"]
-    },
-    {
-        "usphone": "",
-        "ukphone": "",
-        "name": "swore",
-        "trans": ["v.发誓；发誓地说，肯定地说（swear 的过去式）\nvi.咒骂，诅咒（swear 的过去式）\nvt.发誓要，郑重承诺；使起誓，使宣誓（swear 的过去式）"]
-    },
-    {
-        "usphone": "",
-        "ukphone": "",
-        "name": "deserter",
-        "trans": ["n.逃兵；背弃者；[劳经] 擅离职守者；脱党者"]
-    },
-    {
-        "usphone": "",
-        "ukphone": "",
-        "name": "behead",
-        "trans": ["vt.砍头；使河流被夺流"]
-    },
-    {
-        "usphone": "[əˈsəʊsieɪtɪd; əˈsəʊʃieɪtɪd]",
-        "ukphone": "[əˈsəʊsieɪtɪd; əˈsəʊʃieɪtɪd]",
-        "name": "associated",
-        "trans": ["adj. 关联的；联合的\nv. 联系（过去式和过去分词）"]
-    },
-    {
-        "usphone": "",
-        "ukphone": "",
-        "name": "scratch",
-        "trans": ["n.擦伤；抓痕；刮擦声；乱写\nadj.打草稿用的；凑合的；碰巧的\nvt.抓；刮；挖出；乱涂\nvi.抓；搔；发刮擦声；勉强糊口；退出比赛"]
-    },
+		"usphone": "[prɪk]",
+		"ukphone": "[prɪk]",
+		"name": "prick",
+		"trans": ["v.戳；扎破；（使）感到刺痛；（眼泪）引起刺痛；（眼睛）发酸；（使）内心痛苦；驱使；（使）耳朵竖起\nn.扎；戳孔；沮丧；赶牛棒；笨蛋；穿刺；针刺感；（粗俚）阴茎；卑鄙的人"]
+	},
+	{
+		"usphone": "[stæb]",
+		"ukphone": "[stæb]",
+		"name": "stab",
+		"trans": ["vt.刺；刺伤；戳；刺穿；直入\nvi.刺；刺伤；戳；刺痛\nn.刺；戳；尝试；突发的一阵\nn.人名；(泰)萨达"]
+	},
+	{
+		"usphone": "[ˈsɛlɚ]",
+		"ukphone": "[ˈselə(r)]",
+		"name": "cellar",
+		"trans": ["n.地窖；酒窖；地下室\nvt.把…藏入地窖\nn.人名；(捷)采拉尔"]
+	},
+	{
+		"usphone": "[ˈplɛnti]",
+		"ukphone": "[ˈplenti]",
+		"name": "plenty",
+		"trans": ["n.丰富，大量；充足\nadj.足够的，很多的\nadv.足够\npron.大量；充足；富裕\nn.普伦蒂（人名）"]
+	},
+	{
+		"usphone": "[ˈkændl]",
+		"ukphone": "[ˈkændl]",
+		"name": "candle",
+		"trans": ["n.蜡烛；烛光；烛形物\nvt.对着光检查"]
+	},
+	{
+		"usphone": "[ˈreɪvən]",
+		"ukphone": "[ˈreɪvn]",
+		"name": "raven",
+		"trans": ["n.掠夺，劫掠；大乌鸦\nadj.乌黑的\nvt.掠夺；狼吞虎咽\nvi.掠夺；狼吞虎咽\nn.人名；(英)雷文；(德)拉文"]
+	},
+	{
+		"usphone": "[ˌaʊtˈsaɪdər]",
+		"ukphone": "[ˌaʊtˈsaɪdə(r)]",
+		"name": "outsider",
+		"trans": ["n.外人；无取胜希望者"]
+	},
+	{
+		"usphone": "[hɔːr]",
+		"ukphone": "[hɔː(r)]",
+		"name": "whore",
+		"trans": ["n.娼妓，妓女；淫妇\nv.（女子）卖淫；（男子）嫖妓；追求不道德的东西（尤指金钱）"]
+	},
+	{
+		"usphone": "[bɔːr]",
+		"ukphone": "[bɔː(r)]",
+		"name": "boar",
+		"trans": ["n.野猪；（未阉的）公猪\nn.人名；(罗)博阿尔"]
+	},
+	{
+		"usphone": "[ˈskjuːɚ]",
+		"ukphone": "[ˈskjuːə(r)]",
+		"name": "skewer",
+		"trans": ["n.烤肉叉子；串肉扦；针\nvt.刺穿；串住；讽刺"]
+	},
+	{
+		"usphone": "[ˈberi]",
+		"ukphone": "[ˈberi]",
+		"name": "bury",
+		"trans": ["vt.埋葬；隐藏\nn.人名；(法)比里；(英、西)伯里；(德、意、罗、波、捷、匈)布里；(俄)布雷"]
+	},
+	{
+		"usphone": "[biːst]",
+		"ukphone": "[biːst]",
+		"name": "beast",
+		"trans": ["n.野兽；畜生，人面兽心的人"]
+	},
+	{
+		"usphone": "[tʌf]",
+		"ukphone": "[tʌf]",
+		"name": "tough",
+		"trans": ["adj.艰苦的，困难的；坚强的，不屈不挠的；坚韧的，牢固的；强壮的，结实的\nn.恶棍\nvt.坚持；忍受，忍耐\nadv.强硬地，顽强地\nn.人名；(英)图赫"]
+	},
+	{
+		"usphone": "[friːk]",
+		"ukphone": "[friːk]",
+		"name": "freak",
+		"trans": ["n.怪人，怪事；畸形人；反复无常\nadj.奇异的，反常的"]
+	},
+	{
+		"usphone": "[relm]",
+		"ukphone": "[relm]",
+		"name": "realm",
+		"trans": ["n.领域，范围；王国"]
+	},
+	{
+		"usphone": "[ˈkaʊərd]",
+		"ukphone": "[ˈkaʊəd]",
+		"name": "coward",
+		"trans": ["n.懦夫，懦弱的人\nadj.胆小的，懦怯的\nn.人名；(英)科沃德"]
+	},
+	{
+		"usphone": "[ˈsædl]",
+		"ukphone": "[ˈsædl]",
+		"name": "saddle",
+		"trans": ["n.鞍，鞍状物；车座；拖具\nvt.承受；使负担；装以马鞍\nvi.跨上马鞍"]
+	},
+	{
+		"usphone": "[oʊθ]",
+		"ukphone": "[əʊθ]",
+		"name": "oath",
+		"trans": ["n.誓言，誓约；诅咒，咒骂"]
+	},
+	{
+		"usphone": "[swɔːr]",
+		"ukphone": "[swɔː(r)]",
+		"name": "swore",
+		"trans": ["v.发誓；发誓地说，肯定地说（swear 的过去式）\nvi.咒骂，诅咒（swear 的过去式）\nvt.发誓要，郑重承诺；使起誓，使宣誓（swear 的过去式）"]
+	},
+	{
+		"usphone": "[dɪˈzɜːrtər]",
+		"ukphone": "[dɪˈzɜːtə(r)]",
+		"name": "deserter",
+		"trans": ["n.逃兵；背弃者；[劳经] 擅离职守者；脱党者"]
+	},
+	{
+		"usphone": "[bɪˈhed]",
+		"ukphone": "[bɪˈhed]",
+		"name": "behead",
+		"trans": ["vt.砍头；使河流被夺流"]
+	},
+	{
+		"usphone": "[əˈsəʊsieɪtɪd; əˈsəʊʃieɪtɪd]",
+		"ukphone": "[əˈsəʊsieɪtɪd; əˈsəʊʃieɪtɪd]",
+		"name": "associated",
+		"trans": ["adj. 关联的；联合的\nv. 联系（过去式和过去分词）"]
+	},
+	{
+		"usphone": "[skrætʃ]",
+		"ukphone": "[skrætʃ]",
+		"name": "scratch",
+		"trans": ["n.擦伤；抓痕；刮擦声；乱写\nadj.打草稿用的；凑合的；碰巧的\nvt.抓；刮；挖出；乱涂\nvi.抓；搔；发刮擦声；勉强糊口；退出比赛"]
+	},
     {
         "usphone": "[bɪˈriːvmənt]",
         "ukphone": "[bɪˈriːvmənt]",
