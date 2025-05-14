@@ -5868,8 +5868,8 @@
         "trans": ["n. 影响；效果；碰撞；冲击力\nvt. 挤入，压紧；撞击；对\u2026产生影响\nvi. 影响；撞击；冲突；压紧（on，upon，with）"]
     },
     {
-        "usphone": "",
-        "ukphone": "",
+        "usphone": "ˈsuːdoʊ",
+        "ukphone": "ˈsuːdəʊ; ˈsjuːdəʊ",
         "name": "pseudo-code",
         "trans": ["伪码\n伪代码"]
     },
@@ -6190,12 +6190,6 @@
         "ukphone": "/əˈnɔɪɪŋ/",
         "name": "annoying",
         "trans": ["adj.讨厌的；恼人的\nv.骚扰（annoy的ing形式）"]
-    },
-    {
-        "usphone": "",
-        "ukphone": "",
-        "name": "MAH",
-        "trans": ["abbr. 马来酸酐（Maleic Anhydride）"]
     },
     {
         "usphone": "/ˈvaɪəl/",
@@ -6540,12 +6534,6 @@
         "trans": ["n. 方案；情节；剧本；设想"]
     },
     {
-        "usphone": "",
-        "ukphone": "",
-        "name": "if anything",
-        "trans": ["如果有什么区别的话"]
-    },
-    {
         "usphone": "[ˈhʌni]",
         "ukphone": "[ˈhʌni]",
         "name": "honey",
@@ -6558,26 +6546,20 @@
         "trans": ["n. 比较；对照；比喻；比较关系"]
     },
     {
-        "usphone": "",
-        "ukphone": "",
-        "name": "greater or less than zero",
-        "trans": ["大于或小于零"]
-    },
-    {
         "usphone": "[ˌfɜːðəˈmɔː(r)]",
         "ukphone": "[ˌfɜːðəˈmɔː(r)]",
         "name": "furthermore",
         "trans": ["adv. 此外；而且"]
     },
     {
-        "usphone": "",
-        "ukphone": "",
-        "name": "cannons",
+        "usphone": "ˈkænən",
+        "ukphone": "ˈkænən",
+        "name": "cannon",
         "trans": ["n. 大炮；机关炮；扒手（复数）\nv. 炮击；相撞；偷盗（第三人称单数）"]
     },
     {
-        "usphone": "",
-        "ukphone": "",
+        "usphone": "ˈsɜːrkəmstæns",
+        "ukphone": "ˈsɜːkəmstəns",
         "name": "circumstance",
         "trans": ["n.环境；状况；境遇；（尤指）经济状况；命运\nvt.处于某种情况"]
     },
