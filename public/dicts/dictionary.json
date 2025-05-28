@@ -3522,12 +3522,6 @@
         "trans": ["n. 箭，箭头；箭状物；箭头记号\nvt. 以箭头指示；箭一般地飞向\nn. 人名；(英)阿罗"]
     },
     {
-        "usphone": "[ˌekskləˈmeɪʃn]",
-        "ukphone": "[ˌekskləˈmeɪʃn]",
-        "name": "exclamation",
-        "trans": ["n. 感叹；惊叫；惊叹词"]
-    },
-    {
         "usphone": "[ ˌekskləˈmeɪʃn mɑːk]",
         "ukphone": "[ ˌekskləˈmeɪʃn mɑːk]",
         "name": "exclamation mark",
@@ -3714,12 +3708,6 @@
         "trans": ["n. [植] 澳洲坚果树；夏威夷果"]
     },
     {
-        "usphone": "[ˈwɔːtə pruːf]",
-        "ukphone": "[ˈwɔːtə pruːf]",
-        "name": "water proof",
-        "trans": ["防水的；不透水的"]
-    },
-    {
         "usphone": "[daɪˈluːt; daɪˈljuːt]",
         "ukphone": "[daɪˈluːt; daɪˈljuːt]",
         "name": "dilute",
@@ -3820,12 +3808,6 @@
         "ukphone": "[ˈmɑːdʒɪn]",
         "name": "margin",
         "trans": ["n.边缘；利润，余裕；页边的空白\nvt.加边于；加旁注于\nn.人名；(俄、意)马尔金"]
-    },
-    {
-        "usphone": "[ˈæləkeɪt]",
-        "ukphone": "[ˈæləkeɪt]",
-        "name": "allocate",
-        "trans": ["vt. 分配；拨出\nvi. 分配；指定"]
     },
     {
         "usphone": "[ˈkɒŋkriːt]",
@@ -4176,16 +4158,10 @@
         "trans": ["n. 碎片；片段或不完整部分\nvt. 使成碎片\nvi. 破碎或裂开"]
     },
     {
-        "usphone": "[straɪk]",
-        "ukphone": "[straɪk]",
-        "name": "strike",
-        "trans": ["n. 罢工；抗拒；袭击；殴打；（体育中得分的）击球；（十柱保龄球）一投全倒；（尤指石油的）发现；打击；（对上钩的鱼）急拉钓线；（投球）未击中；（投出的）好球；败坏名声的事\nn.  （美、俄、秘）斯特赖克（人名）\nv. 撞击；打；踢（球等）；突击；罢工；使打动；侵袭；突然想到；照射；击出（火星）；擦（火柴）；触发（电弧）；鸣；弹奏；开采出；行进；铸造（硬币）；（电影摄影术）复刻；达到（平衡）；（金融）结算；闯出新的事业；撤（营）；给\u2026\u2026印象；把\u2026\u2026迷住；摆出（姿态）"]
-    },
-    {
         "usphone": "[ˈstraɪkθruː]",
         "ukphone": "[ˈstraɪkθruː]",
         "name": "strikethrough",
-        "trans": ["n. 删除线，加删除线"]
+        "trans": ["n. 删除线，加删除线. 1.击打"]
     },
     {
         "usphone": "[ˈɛmfəsaɪz]",
@@ -4254,12 +4230,6 @@
         "trans": ["adj.顽皮的，淘气的；不听话的；没规矩的；不适当的；下流的"]
     },
     {
-        "usphone": "[ˈtʃaɪnə]",
-        "ukphone": "[ˈtʃaɪnə]",
-        "name": "China",
-        "trans": ["n.中国\nadj.中国的；中国制造的\nn.(china) 瓷器\nadj.(china) 瓷制的"]
-    },
-    {
         "usphone": "[ˈsɛkrəˌtɛri]",
         "ukphone": "[ˈsɛkrətri]",
         "name": "secretary",
@@ -4269,7 +4239,7 @@
         "usphone": "[ˈtroʊdʒən]",
         "ukphone": "[ˈtrəʊdʒən]",
         "name": "trojan",
-        "trans": ["adj.(Trojan) 特洛伊的；特洛伊人的\nn.(Trojan) 特洛伊人；勇士；勤勉的人\nn. （美、波、德）特罗扬（人名）"]
+        "trans": ["adj.特洛伊的；特洛伊人的\nn.特洛伊人；勇士；勤勉的人\nn. （美、波、德）特罗扬（人名）"]
     },
     {
         "usphone": "[ˈkɪndərˌɡɑːrtən]",
@@ -4302,12 +4272,6 @@
         "trans": ["n.母鸡；女人；雌禽\nn.人名；(日)边(姓)；(法)昂；(波、柬)亨"]
     },
     {
-        "usphone": "[ˈplæstɪk]",
-        "ukphone": "[ˈplæstɪk]",
-        "name": "plastic",
-        "trans": ["n.塑料；塑料学；<非正式>信用卡\nadj.塑料制的；人造的，不自然的；（物质、材料）可塑的；产生立体感的；塑性的；有创造力的；适应环境变化的"]
-    },
-    {
         "usphone": "[ˈvɛriəs]",
         "ukphone": "[ˈvɛəriəs]",
         "name": "various",
@@ -4324,12 +4288,6 @@
         "ukphone": "[ˈdaʊtləs]",
         "name": "doubtless",
         "trans": ["adv.无疑地，肯定地；大概\nadj.无疑的，确定的"]
-    },
-    {
-        "usphone": "[ˈdaʊtləsli]",
-        "ukphone": "[ˈdaʊtləsli]",
-        "name": "doubtlessly",
-        "trans": ["确定地\nadv.无疑地"]
     },
     {
         "usphone": "[maɪˈoʊpiə]",
@@ -4386,12 +4344,6 @@
         "trans": ["n. 演讲；讲稿；教训\nvt. 演讲；训诫\nvi. 讲课；讲演"]
     },
     {
-        "usphone": "[səkˈsiːd]",
-        "ukphone": "[səkˈsiːd]",
-        "name": "succeed",
-        "trans": ["vi. 成功；继承；继任；兴旺\nvt. 继承；接替；继\u2026\u2026之后"]
-    },
-    {
         "usphone": "[ˈeɪliəs]",
         "ukphone": "[ˈeɪliəs]",
         "name": "alias",
@@ -4422,34 +4374,16 @@
         "trans": ["n. 建筑学；建筑风格；建筑式样；架构"]
     },
     {
-        "usphone": "[ˈsɪmpl]",
-        "ukphone": "[ˈsɪmpl]",
-        "name": "simple",
-        "trans": ["n. 笨蛋；愚蠢的行为；出身低微者\nadj. 简单的；单纯的；天真的\nn. 人名；(法)桑普勒"]
-    },
-    {
         "usphone": "[ˈsɪmplɪfaɪ]",
         "ukphone": "[ˈsɪmplɪfaɪ]",
         "name": "simplify",
         "trans": ["vt. 简化；使单纯；使简易"]
     },
     {
-        "usphone": "[əˈkaʊnt]",
-        "ukphone": "[əˈkaʊnt]",
-        "name": "account",
-        "trans": ["n. 账户；解释；账目，账单；理由；描述\nvi. 解释；导致；报账\nvt. 认为；把\u2026视为"]
-    },
-    {
         "usphone": "[kən'kætɪneɪt]",
         "ukphone": "[kən'kætɪneɪt]",
         "name": "concatenate",
         "trans": ["v. 连接，连结，使连锁\nadj. 连接的，连结的，连锁的"]
-    },
-    {
-        "usphone": "[ˈvɜːsəs]",
-        "ukphone": "[ˈvɜːsəs]",
-        "name": "versus",
-        "trans": ["prep. 对，对抗；与\u2026\u2026相对，与\u2026\u2026相比"]
     },
     {
         "usphone": "[tjuːˈtɔːriəl]",
