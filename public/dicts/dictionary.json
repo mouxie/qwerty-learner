@@ -1116,12 +1116,6 @@
         "trans": ["n. 越南人；越南语\nadj. 越南的；越南人的"]
     },
     {
-        "usphone": "[rɪˈspektɪvli]",
-        "ukphone": "[rɪˈspektɪvli]",
-        "name": "respectively",
-        "trans": ["adv. 分别地，依次地"]
-    },
-    {
         "usphone": "ˈæʒər",
         "ukphone": "ˈæʒə(r)",
         "name": "azure",
@@ -1452,12 +1446,6 @@
         "trans": ["adj. 必要的，必需的；必然的，不可避免的；迫不得已的，非自愿的\nn. （生活）必需品；<英，非正式>必要的事（the necessary）；<英，非正式>足够的钱（the necessary）\n【名】 （英）内塞瑟里（人名）"]
     },
     {
-        "usphone": "[ɔːlˈtɜːnətɪvli]",
-        "ukphone": "[ɔːlˈtɜːnətɪvli]",
-        "name": "alternatively",
-        "trans": ["adv. （引出第二种选择或可能的建议）要不，或者"]
-    },
-    {
         "usphone": "[kənˈsekjətɪv]",
         "ukphone": "[kənˈsekjətɪv]",
         "name": "consecutive",
@@ -1624,12 +1612,6 @@
         "ukphone": "[ɡeɪn]",
         "name": "gain",
         "trans": ["v. 获得，赢得；受益；增加，增长；（经过努力）到达；（钟表）走快；持球前进，推进（一段距离）\nn. 增加；好处，改进；收益；将球推进的距离；（常用对数表示的功率或电压的）增益\n【名】 （英、匈、法）盖恩（人名）"]
-    },
-    {
-        "usphone": "",
-        "ukphone": "[ˈdiːmən/（恶魔）/ˈdiːmən/ 或 /ˈdeɪmən/守护进程]",
-        "name": "deamon",
-        "trans": ["n. 虚拟光驱（软件名）"]
     },
     {
         "usphone": "[bɪˈhɑːf]",
@@ -4500,12 +4482,6 @@
         "trans": ["adj. 累积的"]
     },
     {
-        "usphone": "[ɪnˈsted əv]",
-        "ukphone": "[ɪnˈsted əv]",
-        "name": "instead of",
-        "trans": ["代替；而不是\u2026"]
-    },
-    {
         "usphone": "[kəˈneəri]",
         "ukphone": "[kəˈneəri]",
         "name": "canary",
@@ -4605,7 +4581,7 @@
         "usphone": "[ˈlætɪs]",
         "ukphone": "[ˈlætɪs]",
         "name": "lattice",
-        "trans": ["n.[晶体] 晶格；格子；格架\nvt.使成格子状"]
+        "trans": ["n.[晶体] 晶格；格子；格架\nvt.使成格子状. 'X work': 网格；栅格结构"]
     },
     {
         "usphone": "[ˈdɛlɪkət]",
@@ -4626,28 +4602,10 @@
         "trans": ["n. 班；小队；五人组（篮球队的非正式说法）\nvt. 把\u2026编成班；把\u2026编入班"]
     },
     {
-        "usphone": "[piːtʃ]",
-        "ukphone": "[piːtʃ]",
-        "name": "peach",
-        "trans": ["n.桃子；桃树；桃红色；受人喜欢的人（或物）\nadj.桃色的；用桃子制成的\nvi.告密\nvt.告发\nn.人名；(英)皮奇"]
-    },
-    {
         "usphone": "[ɪmˈpiːtʃ]",
         "ukphone": "[ɪmˈpiːtʃ]",
         "name": "impeach",
         "trans": ["vt.弹劾；归咎；怀疑\nn.控告，检举；弹劾；怀疑"]
-    },
-    {
-        "usphone": "[ɪmˈpiːtʃ]",
-        "ukphone": "[ɪmˈpiːtʃ]",
-        "name": "弹劾",
-        "trans": ["impeach (a public official)\naccuse"]
-    },
-    {
-        "usphone": "[ˈriːteɪl]",
-        "ukphone": "[ˈriːteɪl]",
-        "name": "retail",
-        "trans": ["n.零售\nv.零售，（以某价格）零售；详述；散播（私密消息）\nadv.以零售方式\nadj.零售的\nn. （印）勒塔伊（人名）"]
     },
     {
         "usphone": "[dɪˈspjuːt]",
@@ -4660,12 +4618,6 @@
         "ukphone": "[ɪmˈbærəs]",
         "name": "embarrass",
         "trans": ["v. （尤指在社交场合）使窘迫，使尴尬；使困惑；使为难；使复杂化；陷入经济困难；妨碍（人、移动、行动）"]
-    },
-    {
-        "usphone": "[ɪmˈbærəsɪŋ]",
-        "ukphone": "[ɪmˈbærəsɪŋ]",
-        "name": "embarrassing",
-        "trans": ["adj. 使人尴尬的；令人为难的"]
     },
     {
         "usphone": "[dɪˈmɒkrəsi]",
@@ -4698,34 +4650,16 @@
         "trans": ["n.管家；乘务员；膳务员；工会管事\nvi.当服务员；当管事\nvt.管理\nn.人名；(英)斯图尔德"]
     },
     {
-        "usphone": "[pruːf]",
-        "ukphone": "[pruːf]",
-        "name": "proof",
-        "trans": ["n.证明；证据；校样；考验；验证；试验\nadj.防\u2026的；不能透入的；证明用的；耐\u2026的\nvt.试验；校对；使不被穿透"]
-    },
-    {
         "usphone": "[kənˈsɛʃən]",
         "ukphone": "[kənˈsɛʃən]",
         "name": "concession",
         "trans": ["n.让步；特许（权）；承认；退位"]
     },
     {
-        "usphone": "[ˈspɒnsər]",
-        "ukphone": "[ˈspɒnsə]",
-        "name": "sponsor",
-        "trans": ["n.赞助者；主办者；保证人\nvt.赞助；发起"]
-    },
-    {
         "usphone": "[mɛs ʌp]",
         "ukphone": "[mɛs ʌp]",
         "name": "mess up",
         "trans": ["陷入困境；搞糟"]
-    },
-    {
-        "usphone": "[ˈpruːf əv ˈkɒnsɛpt]",
-        "ukphone": "[ˈpruːf əv ˈkɒnsɛpt]",
-        "name": "proof-of-concept",
-        "trans": ["n.（产品开发的）概念验证阶段"]
     },
     {
         "usphone": "[ˈtrɪki]",
@@ -4944,22 +4878,16 @@
         "trans": ["n. 厌恶，嫌恶\nvt. 使厌恶；使作呕"]
     },
     {
-        "usphone": "[ˈmɛtə]",
-        "ukphone": "[ˈmɛtə]",
-        "name": "meta",
-        "trans": ["pref 表示\u201c变化\u201d\u201c变换\u201d之义\nn 人名；(德、俄、罗、塞、葡、意、英)梅塔(女子教名Margaret的昵称)"]
-    },
-    {
         "usphone": "[ɪnˈɡeɪd͡ʒ.mənt]",
         "ukphone": "[ɪnˈɡeɪd͡ʒ.mənt]",
         "name": "engagement",
         "trans": ["n.婚约；约会；交战；诺言；进场（游戏术语）\nn.参与度（指用户点赞、转发、评论、下载文档、观看视频、咨询等交互行为）"]
     },
     {
-        "usphone": "[kənˈvɜːrsɪŋ]",
-        "ukphone": "[kənˈvɜːsɪŋ]",
-        "name": "conversing",
-        "trans": ["谈话"]
+        "usphone": "[kənˈvɜːrs]",
+        "ukphone": "[kənˈvɜːs]",
+        "name": "converse",
+        "trans": ["v.谈话，交谈; n.相反的事物，反面说法；<旧>谈话，交谈；逆命题. adj 相反的，颠倒的，逆向的"]
     },
     {
         "usphone": "[ɹɪˈfɹeɪn]",
@@ -4990,12 +4918,6 @@
         "ukphone": "[ˈtriːəʊ]",
         "name": "trio",
         "trans": ["n. 三重唱；三件一套；三个一组\nn. 人名；(意)特里奥"]
-    },
-    {
-        "usphone": "[pəˈfɔːməns]",
-        "ukphone": "[pəˈfɔːməns]",
-        "name": "performance",
-        "trans": ["n. 性能；绩效；表演；执行；表现"]
     },
     {
         "usphone": "[ɪmˈbed]",
@@ -5121,7 +5043,7 @@
         "usphone": "[ˈdiːmən]",
         "ukphone": "[ˈdiːmən]",
         "name": "daemon",
-        "trans": ["n. 守护进程；后台程序"]
+        "trans": ["n.魔鬼，恶魔（同 demon）；守护进程；后台程序"]
     },
     {
         "usphone": "[ˈsentɪnl]",
@@ -5160,12 +5082,6 @@
         "trans": ["n. 量；体积；卷；音量；大量；册\nadj. 大量的\nvi. 成团卷起\nvt. 把\u2026收集成卷"]
     },
     {
-        "usphone": "[ˈredʒɪstri]",
-        "ukphone": "[ˈredʒɪstri]",
-        "name": "registry",
-        "trans": ["n. 注册；登记处；挂号处；船舶的国籍"]
-    },
-    {
         "usphone": "[sluːθ]",
         "ukphone": "[sluːθ]",
         "name": "Sleuth",
@@ -5176,12 +5092,6 @@
         "ukphone": "[ˌrekəɡˈnɪʃn]",
         "name": "recognition",
         "trans": ["n. 承认，接受；表彰，赞誉；认出，识别；（政府对他国的）外交认可"]
-    },
-    {
-        "usphone": "[ˈsuːpəvaɪzər; ˈsjuːpəvaɪzər]",
-        "ukphone": "[ˈsuːpəvaɪzər; ˈsjuːpəvaɪzər]",
-        "name": "supervisor",
-        "trans": ["监督人，指导者；[管理] 管理人；检查员"]
     },
     {
         "usphone": "[vəˈraɪəti]",
@@ -5248,12 +5158,6 @@
         "ukphone": "[ˌiːvəˈluːʃn; ˌevəˈluːʃn]",
         "name": "evolution",
         "trans": ["n. 演变；进化论；进展"]
-    },
-    {
-        "usphone": "[rɪ'sɜːtʃ; 'riːsɜːtʃ]",
-        "ukphone": "[rɪ'sɜːtʃ; 'riːsɜːtʃ]",
-        "name": "research",
-        "trans": ["n. 研究；调查\nvi. 研究；调查\nvt. 研究；调查\n"]
     },
     {
         "usphone": "[ˈvaɪəleɪt]",
@@ -5610,12 +5514,6 @@
         "trans": ["摆脱，除去"]
     },
     {
-        "usphone": "/rɪd/",
-        "ukphone": "/ˈɹɪd/",
-        "name": "rid",
-        "trans": ["v.使摆脱，使去掉\nn. （俄、德、英、美）里德（人名）"]
-    },
-    {
         "usphone": "",
         "ukphone": "/ˌɪntəˈfɪə/",
         "name": "interfere",
@@ -5658,24 +5556,6 @@
         "trans": ["n.保证；担保；保证人；保证书；抵押品\nvt.保证；担保"]
     },
     {
-        "usphone": "[ɪtˈself]",
-        "ukphone": "[ɪtˈself]",
-        "name": "itself",
-        "trans": ["pron. 它自己；它本身"]
-    },
-    {
-        "usphone": "[ðəmˈselvz]",
-        "ukphone": "[ðəmˈselvz]",
-        "name": "themselves",
-        "trans": ["pron. 他们自己；他们亲自"]
-    },
-    {
-        "usphone": "/waɪt ˈpaʊdər/",
-        "ukphone": "/waɪt ˈpaʊdə/",
-        "name": "white powder",
-        "trans": ["白色粉末；白粉；干蛋白"]
-    },
-    {
         "usphone": "/plænt/",
         "ukphone": "/plænt/",
         "name": "plant",
@@ -5712,22 +5592,10 @@
         "trans": ["暴力行为；色情文学"]
     },
     {
-        "usphone": "[rʌf]",
-        "ukphone": "[rʌf]",
-        "name": "rough",
-        "trans": ["adj. 粗糙的；粗略的；粗野的；艰苦的；未经加工的\nvt. 使粗糙；粗暴对待；草拟\nn. 艰苦；高低不平的地面；未经加工的材料；粗糙的部分\nvi. 举止粗野\nadv. 粗糙地；粗略地；粗暴地\nn. 人名；(英)拉夫"]
-    },
-    {
         "usphone": "/rʌn ɔf/",
         "ukphone": "/rʌn ɒf/",
         "name": "run off",
         "trans": ["逃跑；印出；流掉；进行决赛"]
-    },
-    {
-        "usphone": "[tʃɑːm]",
-        "ukphone": "[tʃɑːm]",
-        "name": "charm",
-        "trans": ["n. 魅力，吸引力；魔力\nvt. 使陶醉；行魔法\nvi. 有魔力；用符咒"]
     },
     {
         "usphone": "[ˈprɒtəʒeɪ]",
@@ -5964,12 +5832,6 @@
         "trans": ["adj.可爱的；可敬重的，值得崇拜的"]
     },
     {
-        "usphone": "/weɪ tuː/",
-        "ukphone": "/weɪ tuː/",
-        "name": "way to",
-        "trans": ["方法"]
-    },
-    {
         "usphone": "[həˈluːsɪneɪtɪŋ]",
         "ukphone": "[həˈluːsɪneɪt]",
         "name": "hallucinating",
@@ -6052,12 +5914,6 @@
         "ukphone": "/ˈɔːfəl/",
         "name": "awful",
         "trans": ["adj.可怕的；极坏的；难受的；使人敬畏的；非常的\nadv.极其，非常"]
-    },
-    {
-        "usphone": "/ˈtʌfɪst deɪz/",
-        "ukphone": "/ˈtʌfɪst deɪz/",
-        "name": "toughest days",
-        "trans": ["艰难的日子"]
     },
     {
         "usphone": "/ˈtʌfɪst/",
@@ -7150,12 +7006,6 @@
         "ukphone": "/ʃɜːk/",
         "name": "shirk",
         "trans": ["vt.逃避\nvi.推卸；逃避\nn.人名；(英)舍克"]
-    },
-    {
-        "usphone": "[ɡɛt rɪd]",
-        "ukphone": "[ɡɛt rɪd]",
-        "name": "get rid",
-        "trans": ["摆脱；排除；处理掉"]
     },
     {
         "usphone": "/kəʊˈɪnsɪdəns/",
