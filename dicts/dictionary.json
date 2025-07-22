@@ -4572,12 +4572,6 @@
         "trans": ["n.饮食；食物；规定饮食\nvi.节食\nvt.[医] 照规定饮食\nn.人名；(法)迪耶"]
     },
     {
-        "usphone": "[ˈlætɪs wɜːrk]",
-        "ukphone": "[ˈlætɪs wɜːk]",
-        "name": "lattice work",
-        "trans": ["网格；栅格结构"]
-    },
-    {
         "usphone": "[ˈlætɪs]",
         "ukphone": "[ˈlætɪs]",
         "name": "lattice",
@@ -4894,18 +4888,6 @@
         "ukphone": "[ɹɪˈfɹeɪn]",
         "name": "refrain",
         "trans": ["vi.节制，克制；避免；制止\nn.叠句，副歌；重复"]
-    },
-    {
-        "usphone": "[rəˈneɪ]",
-        "ukphone": "[rəˈneɪ]",
-        "name": "Renee",
-        "trans": ["n.蕾妮（人名）"]
-    },
-    {
-        "usphone": "[juːˈniːs]",
-        "ukphone": "[juːˈniːs]",
-        "name": "Eunice",
-        "trans": ["n.尤妮斯（女子名，义为快乐的胜利）"]
     },
     {
         "usphone": "[ˈnæni]",
@@ -5238,12 +5220,6 @@
         "trans": ["n [车辆] 车辆；工具；交通工具；运载工具；传播媒介；媒介物"]
     },
     {
-        "usphone": "nɪˈkəʊl",
-        "ukphone": "nɪˈkəʊl",
-        "name": "Nicole",
-        "trans": ["n.尼科尔（女子名，等于ch）"]
-    },
-    {
         "usphone": "/ˈbʊli/",
         "ukphone": "/ˈbʊli/",
         "name": "bully",
@@ -5502,12 +5478,6 @@
         "trans": ["adj. 以前的；早先的；过早的\nadv. 在先；在\u2026以前"]
     },
     {
-        "usphone": "[ˈmætə(r)]",
-        "ukphone": "[ˈmætə(r)]",
-        "name": "matter",
-        "trans": ["n. 物质；事件\nvi. 有关系；要紧\nn. 人名；(英、法)马特；(西)马特尔"]
-    },
-    {
         "usphone": "",
         "ukphone": "",
         "name": "get rid of",
@@ -5576,7 +5546,7 @@
     {
         "usphone": "/ɪn ˈmætər ʌv/",
         "ukphone": "/ɪn ˈmætə ʌv/",
-        "name": "in matter of",
+        "name": "in matters of",
         "trans": ["与\u2026\u2026有关"]
     },
     {
@@ -5668,12 +5638,6 @@
         "ukphone": "[sɪlk]",
         "name": "silk",
         "trans": ["n. 丝绸；蚕丝；丝织物\nadj. 丝的；丝绸的；丝制的\nvi. （玉米）处于长须的阶段中\nn. 人名；(英、瑞典)西尔克"]
-    },
-    {
-        "usphone": "/ɪn dɪˈspaɪt ʌv/",
-        "ukphone": "/ɪn dɪˈspaɪt ʌv/",
-        "name": "in despite of",
-        "trans": ["尽管；不管"]
     },
     {
         "usphone": "/ɪn spaɪt ʌv/",
