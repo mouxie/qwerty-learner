@@ -5760,34 +5760,16 @@
         "trans": ["滚烫的；非常新鲜的"]
     },
     {
-        "usphone": "/wɛnt ˈræðər wɛl/",
-        "ukphone": "/wɛnt ˈrɑːðə wɛl/",
-        "name": "went rather well",
-        "trans": ["相当好了"]
-    },
-    {
-        "usphone": "/ɪt ˈdʌzənt æd ʌp/",
-        "ukphone": "/ɪt ˈdʌzənt æd ʌp/",
-        "name": "It doesn't add up",
-        "trans": ["这没有意义"]
+        "usphone": "[ˈekstrækt]",
+        "ukphone": "[ˈekstrækt]",
+        "name": "extract",
+        "trans": ["v. 提取，提炼；索取，设法得到；选取，摘录；取出，拔出；推断出，引申出；开（方），求（根）\nn. 摘录，引文；榨出物，汁"]
     },
     {
         "usphone": "/ɪnˈkluːsɪv ʌv/",
         "ukphone": "/ɪnˈkluːsɪv ʌv/",
         "name": "inclusive of",
         "trans": ["把\u2026包括在内"]
-    },
-    {
-        "usphone": "[ɪnˈkluːsɪv]",
-        "ukphone": "[ɪnˈkluːsɪv]",
-        "name": "inclusive",
-        "trans": ["adj. 包含的，包括的；包含全部费用的； 包括提到的所有\u2026\u2026在内的；范围广泛的；一切服务包含在内的；包括明示界限在内的；不排斥任何一方的；有意避免性别歧视的；兼收并蓄的\nadv. 包括一切费用在内地"]
-    },
-    {
-        "usphone": "[ˈekstrækt]",
-        "ukphone": "[ˈekstrækt]",
-        "name": "extract",
-        "trans": ["v. 提取，提炼；索取，设法得到；选取，摘录；取出，拔出；推断出，引申出；开（方），求（根）\nn. 摘录，引文；榨出物，汁"]
     },
     {
         "usphone": "/əˈdɔːrəbəl/",
@@ -8410,6 +8392,18 @@
         "ukphone": "[əbriːvɪ'eɪʃ(ə)n]",
         "name": "abbreviation",
         "trans": ["n. 缩写；缩写词"]
+    },
+    {
+        "usphone": "/wɛnt ˈræðər wɛl/",
+        "ukphone": "/wɛnt ˈrɑːðə wɛl/",
+        "name": "went rather well",
+        "trans": ["相当好了"]
+    },
+    {
+        "usphone": "/ɪt ˈdʌzənt æd ʌp/",
+        "ukphone": "/ɪt ˈdʌzənt æd ʌp/",
+        "name": "It doesn't add up",
+        "trans": ["这没有意义"]
     },
     {
         "usphone": "[nɑːk][daʊn]",
