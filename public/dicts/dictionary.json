@@ -4740,10 +4740,10 @@
         "trans": ["vt. 迫使；强制；赐，施恩惠；责成；义务\nvi. 帮忙；施恩惠"]
     },
     {
-        "usphone": "[ˈsɜːrkəmstænsɪz]",
-        "ukphone": "[ˈsɜːkəmst(ə)nsɪz]",
-        "name": "circumstances",
-        "trans": ["n. 情况（复数）；环境；情形"]
+        "usphone": "ˈsɜːrkəmstæns",
+        "ukphone": "ˈsɜːkəmstəns",
+        "name": "circumstance",
+        "trans": ["n.环境；状况；境遇；（尤指）经济状况；命运\nvt.处于某种情况"]
     },
     {
         "usphone": "[kənˈsent]",
@@ -6078,12 +6078,6 @@
         "trans": ["n. 大炮；机关炮；扒手（复数）\nv. 炮击；相撞；偷盗（第三人称单数）"]
     },
     {
-        "usphone": "ˈsɜːrkəmstæns",
-        "ukphone": "ˈsɜːkəmstəns",
-        "name": "circumstance",
-        "trans": ["n.环境；状况；境遇；（尤指）经济状况；命运\nvt.处于某种情况"]
-    },
-    {
         "usphone": "[ˈsʌbsədi]",
         "ukphone": "[ˈsʌbsədi]",
         "name": "subsidy",
@@ -6114,12 +6108,6 @@
         "trans": ["沉默对待；沉默相待"]
     },
     {
-        "usphone": "/ˈtriːtmənt/",
-        "ukphone": "/ˈtriːtmənt/",
-        "name": "treatment",
-        "trans": ["n.治疗，疗法；处理；对待"]
-    },
-    {
         "usphone": "/wɪðˈdrɔn/",
         "ukphone": "/wɪðˈdrɔːn/",
         "name": "withdrawn",
@@ -6148,12 +6136,6 @@
         "ukphone": "/ʌpˈsɛt æt/",
         "name": "upset at",
         "trans": ["不满"]
-    },
-    {
-        "usphone": "/ˈskruː ʌp/",
-        "ukphone": "/ˈskruː ʌp/",
-        "name": "screw-up",
-        "trans": ["n.一团糟；混乱的状况；犯错误的人"]
     },
     {
         "usphone": "/prɪˈtɛnd/",
@@ -6264,12 +6246,6 @@
         "trans": ["价格冲破屋顶，飞涨"]
     },
     {
-        "usphone": "/wʌt ðə hɛl ɪz ˈɡoʊɪŋ ɑn/",
-        "ukphone": "/wɒt ðə hɛl ɪz ˈɡəʊɪŋ ɒn/",
-        "name": "what the hell is going on",
-        "trans": ["到底是怎么回事\n到底发生了什么"]
-    },
-    {
         "usphone": "/səbˈskraɪb/",
         "ukphone": "/səbˈskraɪb/",
         "name": "subscribe",
@@ -6328,12 +6304,6 @@
         "ukphone": "/ˈfɔːlən/",
         "name": "fallen",
         "trans": ["adj 堕落的；落下来的；陷落的\nv 落下；跌倒（过去分词）"]
-    },
-    {
-        "usphone": "/skruː/",
-        "ukphone": "/skruː/",
-        "name": "screw",
-        "trans": ["vt.旋，拧；压榨；强迫\nn.螺旋；螺丝钉；吝啬鬼\nvi.转动，拧"]
     },
     {
         "usphone": "/skruː ʌp/",
