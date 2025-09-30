@@ -7236,12 +7236,6 @@
         "trans": ["adj.不省人事的，昏厥的"]
     },
     {
-        "usphone": "[feɪnt]",
-        "ukphone": "[feɪnt]",
-        "name": "faint",
-        "trans": ["adj.模糊的；头晕的；虚弱的；[医] 衰弱的\nvi.昏倒；变得微弱；变得没气力\nn.[中医] 昏厥，昏倒"]
-    },
-    {
         "usphone": "[kraʊd]",
         "ukphone": "[kraʊd]",
         "name": "crowd",
@@ -7272,15 +7266,9 @@
         "trans": ["n.事情；事务；私事；（尤指关系不长久的）风流韵事"]
     },
     {
-        "usphone": "[ʧɛk ɑn]",
-        "ukphone": "[ʧɛk ɒn]",
-        "name": "check on",
-        "trans": ["检查；核实"]
-    },
-    {
         "usphone": "[aɪ woʊnt]",
         "ukphone": "[aɪ wəʊnt]",
-        "name": "I won’t",
+        "name": "I won't",
         "trans": ["我不会"]
     },
     {
@@ -7292,7 +7280,7 @@
     {
         "usphone": "[woʊnt baɪt]",
         "ukphone": "[wəʊnt baɪt]",
-        "name": "won’t bite",
+        "name": "won't bite",
         "trans": ["不会咬人"]
     },
     {
@@ -7386,12 +7374,6 @@
         "trans": ["n.货摊；畜栏；（房间内的）小隔间；（教堂内）唱诗班和牧师的座位；（机动车停车场的）车位；（赛马开始前各马站位的）单间马房；（剧院）堂座；（车辆）熄火；（飞机）失速\nv.熄火；拖延（以赢得时间）；暂缓；把（牲畜）关在廐中（养肥）；（飞机）失速；（船）航行失控\nn. （美）斯塔尔（人名）"]
     },
     {
-        "usphone": "[səˈpoʊz]",
-        "ukphone": "[səˈpəʊz]",
-        "name": "suppose",
-        "trans": ["vt.假设；认为；让（虚拟语气）；推想\nvi.猜想；料想\nconj.假使\u2026结果会怎样"]
-    },
-    {
         "usphone": "['præktɪk]",
         "ukphone": "['præktɪk]",
         "name": "practic",
@@ -7438,12 +7420,6 @@
         "ukphone": "[ˌʌnfɔːˈsiːn]",
         "name": "unforeseen",
         "trans": ["adj.未预见到的，无法预料的，意料之外的"]
-    },
-    {
-        "usphone": "[səˈfɪʃnt]",
-        "ukphone": "[səˈfɪʃnt]",
-        "name": "sufficient",
-        "trans": ["adj. 足够的；充分的"]
     },
     {
         "usphone": "[kənˈdʌkt]",
@@ -7506,12 +7482,6 @@
         "trans": ["断电；动力故障；功率输出"]
     },
     {
-        "usphone": "[ɪnˈvɛstɪɡeɪt]",
-        "ukphone": "[ɪnˈvestɪɡeɪt]",
-        "name": "investigate",
-        "trans": ["v. 调查；研究"]
-    },
-    {
         "usphone": "[rɪ'fjuːz]",
         "ukphone": "[rɪ'fjuːz]",
         "name": "refuse",
@@ -7536,46 +7506,10 @@
         "trans": ["vt. 澄清；阐明\nvi. 得到澄清；变得明晰；得到净化"]
     },
     {
-        "usphone": "['mɑ:mi]",
-        "ukphone": "['mɒmɪ]",
-        "name": "mommy",
-        "trans": ["n. 妈咪"]
-    },
-    {
-        "usphone": "['mʌmi]",
-        "ukphone": "['mʌmɪ]",
-        "name": "mummy",
-        "trans": ["n. 妈妈；木乃伊；干瘪的人"]
-    },
-    {
-        "usphone": "['mɑ:mə]",
-        "ukphone": "['mɑ:mə]",
-        "name": "mama",
-        "trans": ["n. 妈妈（口语） \nn. 人名；(多哥、赞、贝宁)马马"]
-    },
-    {
-        "usphone": "['mæmi]",
-        "ukphone": "['mæmɪ]",
-        "name": "mammy",
-        "trans": ["n. 妈咪；保姆"]
-    },
-    {
-        "usphone": "[ˈhɑlədeɪ]",
-        "ukphone": "[ˈhɒlədeɪ; ˈhɒlədi]",
-        "name": "holiday",
-        "trans": ["n. 假日；节日；休息日 \nvi. 外出度假 \nn. 人名；(英)霍利迪"]
-    },
-    {
         "usphone": "[ˈmaɪnər]",
         "ukphone": "[ˈmaɪnə(r)]",
         "name": "miner",
         "trans": ["n. 矿工；开矿机 \nn. 人名；(英)迈纳；(西)米内尔"]
-    },
-    {
-        "usphone": "[ʤus]",
-        "ukphone": "[dʒuːs]",
-        "name": "juice",
-        "trans": ["n. （水果）汁，液；果汁"]
     },
     {
         "usphone": "[ˌkɔrəˈspɑndəns]",
@@ -7636,12 +7570,6 @@
         "ukphone": "[ˌrezəˈluːʃn]",
         "name": "resolution",
         "trans": ["n. [物] 分辨率；决议；解决；决心"]
-    },
-    {
-        "usphone": "[səˈluːʃn]",
-        "ukphone": "[səˈluːʃn]",
-        "name": "solution",
-        "trans": ["n. 解决方案；溶液；溶解；解答"]
     },
     {
         "usphone": "[noʊ sɛns]",
@@ -7782,12 +7710,6 @@
         "trans": ["n. 存货，存货清单；详细目录；财产清册"]
     },
     {
-        "usphone": "[ˈdɛprəˌkeɪt]",
-        "ukphone": "[ˈdeprəkeɪt]",
-        "name": "deprecate",
-        "trans": ["vt. 反对；抨击；轻视；声明不赞成"]
-    },
-    {
         "usphone": "[ˌækwɪˈzɪʃn]",
         "ukphone": "[ˌækwɪˈzɪʃn]",
         "name": "acquisition",
@@ -7926,18 +7848,6 @@
         "trans": ["adj. 改进的\nv. 修改；校订；复习（过去分词形式）"]
     },
     {
-        "usphone": "['fɜːðə]",
-        "ukphone": "['fɜːðə]",
-        "name": "further",
-        "trans": ["adv. 更远地；远非（如此）；进一步地；而且；处于更高阶段\nadj. 更多的，附加的；更远的；进一步的，深一层的\nv. 促进，增进，助长"]
-    },
-    {
-        "usphone": "[ruːl]",
-        "ukphone": "[ruːl]",
-        "name": "rule",
-        "trans": ["n. 规则；建议；统治；习惯；定律；法治；尺子；破折号\nv. 统治，管理；支配；规定；裁决；用尺画；（非正式）极好；（行星）对\u2026\u2026有影响；（价格）普遍处于某一水平\nn.  （西）鲁莱（人名）"]
-    },
-    {
         "usphone": "[plʌɡ]",
         "ukphone": "[plʌɡ]",
         "name": "plug in",
@@ -8068,12 +7978,6 @@
         "ukphone": "['kæpɪt(ə)l]",
         "name": "capital",
         "trans": ["n. 首都，省会；资金；大写字母；资本家\nadj. 首都的；重要的；大写的\nn. 人名；(法)卡皮塔尔"]
-    },
-    {
-        "usphone": "",
-        "ukphone": "",
-        "name": "Lucene",
-        "trans": ["n. 一个全文搜索引擎"]
     },
     {
         "usphone": "[ˈefət]",
