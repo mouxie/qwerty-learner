@@ -2196,12 +2196,6 @@
         "trans": ["n. 曲调，曲子；歌曲，乐段\nv. （给乐器）调音，校音；（给收音机、电视等）调谐，调频道；调整，调节（发动机）；调整，使适合；<南非，非正式>告诉\n【名】图恩（人名）\nn. 人名；（英）图恩"]
     },
     {
-        "usphone": "[ˈdiːfekt; dɪˈfekt]",
-        "ukphone": "[ˈdiːfekt; dɪˈfekt]",
-        "name": "defect",
-        "trans": ["n. 缺点，缺陷，毛病\n\nv. 背叛，叛变，投敌"]
-    },
-    {
         "usphone": "[ɪnˈkɔːpəreɪt]",
         "ukphone": "[ɪnˈkɔːpəreɪt]",
         "name": "incorporate",
@@ -2758,12 +2752,6 @@
         "ukphone": "ˈselɪbət",
         "name": "celibate",
         "trans": ["adj.独身的，不结婚的；没有性生活的，禁欲的\nn.独身主义者；禁欲者"]
-    },
-    {
-        "usphone": "ɪnˈtaɪərli",
-        "ukphone": "ɪnˈtaɪəli",
-        "name": "entirely",
-        "trans": ["adv.完全地，彻底地"]
     },
     {
         "usphone": "ˈlɪŋɡər",
@@ -3348,12 +3336,6 @@
         "trans": ["pron.没有人，一个也没有，没有任何东西\nadj.没有的，一点没有的\nadv.一点也不；决不，不怎么，绝不\nn.申初经（天主教七段祈祷时间中的一部分，通常在一天中的第九个小时）\nn. （葡、罗）诺内（人名）"]
     },
     {
-        "usphone": "/nʌl/",
-        "ukphone": "/nʌl/",
-        "name": "null",
-        "trans": ["adj.无效的，无价值的；等于零的\nn.零，[数] 空"]
-    },
-    {
         "usphone": "/daɪˈmen.ʃən/",
         "ukphone": "/dɪˈmen.ʃən/",
         "name": "dimension",
@@ -3490,12 +3472,6 @@
         "ukphone": "[ˈkɒmə]",
         "name": "comma",
         "trans": ["n. 逗号；停顿"]
-    },
-    {
-        "usphone": "[ˈɡreɪtər ðæn]",
-        "ukphone": "[ˈɡreɪtə ðæn]",
-        "name": "greater than",
-        "trans": ["[数] 大于"]
     },
     {
         "usphone": "[flɪp]",
@@ -7804,12 +7780,6 @@
         "ukphone": "[praɪ'ɒrɪtɪ]",
         "name": "priority",
         "trans": ["n. 优先；优先权；[数] 优先次序；优先考虑的事"]
-    },
-    {
-        "usphone": "['defɪnɪt]",
-        "ukphone": "['defɪnɪt]",
-        "name": "definite",
-        "trans": ["adj. 一定的；确切的"]
     },
     {
         "usphone": "[kɔːz]",
