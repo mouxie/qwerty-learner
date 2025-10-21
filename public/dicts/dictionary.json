@@ -1368,12 +1368,6 @@
         "trans": ["v. 照射，照亮；阐明，解释；使容光焕发；用彩灯装饰；用金、银等彩色图案装饰（书稿的书页或首词第一个字母）"]
     },
     {
-        "usphone": "[kəˈmjuːnɪkeɪt]",
-        "ukphone": "[kəˈmjuːnɪkeɪt]",
-        "name": "communicate",
-        "trans": ["v. 传递信息，通讯；传达，传递（想法或感情）；传染（疾病）；（房间或建筑）相通，相连；传输（热，力），传递（运动）；领受圣餐"]
-    },
-    {
         "usphone": "[ˌkɒmprɪˈhensɪv]",
         "ukphone": "[ˌkɒmprɪˈhensɪv]",
         "name": "comprehensive",
@@ -1414,18 +1408,6 @@
         "ukphone": "[prəˈkjʊə(r)]",
         "name": "procure",
         "trans": ["v. <正式>（设法） 获得，取得；为（某人）拉皮条，给（某人）做淫媒；<法律>说服，使（某人）做某事；<古>导致"]
-    },
-    {
-        "usphone": "[trɪp]",
-        "ukphone": "[trɪp]",
-        "name": "trip",
-        "trans": ["n.（尤指短程往返的）旅行，旅游；出门，出行；绊倒；<非正式>（吸毒所致的）幻觉，迷幻感受；<美，非正式>让人开心的奇人，奇妙有趣的经历；强烈的情感体验；（赛跑等比赛的）赛程；自我放纵的态度（或行动）；（机器、电路的）开关；<古>轻捷的脚步；<古>错误\nv.绊，绊倒；脚步轻快地走（或跑、跳舞）；（尤指意外地）触动（开关）；（部分电路）自动断开；<非正式>（服用毒品后）产生幻觉；（字句）轻松自如地吐出；作短程旅行；竖起（帆桁等）；（航海）起（锚）\n【名】 （美）特里普（人名）"]
-    },
-    {
-        "usphone": "[ˈtræv(ə)l]",
-        "ukphone": "[ˈtræv(ə)l]",
-        "name": "travel",
-        "trans": ["v.（尤指长途）旅行；走动，移动；（以某速度、朝某方向或在某距离内）行进；（光或声音）传播；（食品等）经得起长途运输；周游，走遍；（尤指车辆）快速行进；（消息）流传；盛行各地；（篮球运动中）走步；（目光）扫视，移动；交往；想象来到\nn.旅行；（出国）旅游；（机器部件的）运动范围，运动速度，运动模式"]
     },
     {
         "usphone": "[kənˈsensəs]",
@@ -1836,12 +1818,6 @@
         "trans": ["n. （尤指为获得某物制定长期的）策略，行动计划；战略，战略学"]
     },
     {
-        "usphone": "[praɪˈmerəli; ˈpraɪmərəli]",
-        "ukphone": "[praɪˈmerəli; ˈpraɪmərəli]",
-        "name": "primarily",
-        "trans": ["adv. 主要地，首要地，根本地"]
-    },
-    {
         "usphone": "[ˈsuːtəb(ə)l]",
         "ukphone": "[ˈsuːtəb(ə)l]",
         "name": "suitable",
@@ -1864,12 +1840,6 @@
         "ukphone": "[ˈɪntərɪm]",
         "name": "interim",
         "trans": ["adj. 暂时的，过渡期间的，间歇的；决算前的，中间时期的\nn. 过渡期，中间期；中期利润，阶段性成果"]
-    },
-    {
-        "usphone": "[ɪnˌvestɪˈɡeɪʃn]",
-        "ukphone": "[ɪnˌvestɪˈɡeɪʃn]",
-        "name": "investigation",
-        "trans": ["n. 调查，审查；科学研究，学术研究"]
     },
     {
         "usphone": "[dɪˈzɑːstə(r)]",
@@ -3190,12 +3160,6 @@
 		"ukphone": "[ˈselə(r)]",
 		"name": "cellar",
 		"trans": ["n.地窖；酒窖；地下室\nvt.把…藏入地窖\nn.人名；(捷)采拉尔"]
-	},
-	{
-		"usphone": "[ˈplɛnti]",
-		"ukphone": "[ˈplenti]",
-		"name": "plenty",
-		"trans": ["n.丰富，大量；充足\nadj.足够的，很多的\nadv.足够\npron.大量；充足；富裕\nn.普伦蒂（人名）"]
 	},
 	{
 		"usphone": "[ˈkændl]",
@@ -7218,12 +7182,6 @@
         "trans": ["vi 解决；定居；沉淀；下陷\nvt 解决；安排；使\u2026定居\nn 有背长椅\nn 人名；(英)塞特尔"]
     },
     {
-        "usphone": "[ˈdæmɪʤ]",
-        "ukphone": "[ˈdæmɪʤ]",
-        "name": "damage",
-        "trans": ["n.损害；损毁；赔偿金\nvi.损害；损毁\nvt.损害，毁坏"]
-    },
-    {
         "usphone": "[feɪntɪd]",
         "ukphone": "[feɪntɪd]",
         "name": "fainted",
@@ -7638,12 +7596,6 @@
         "trans": ["vt. 蹒跚；使交错；使犹豫 \nvi. 蹒跚；犹豫 \nn. 蹒跚；交错安排 \nadj. 交错的；错开的"]
     },
     {
-        "usphone": "[bɪˈheɪvjər]",
-        "ukphone": "[bɪˈheɪvjə]",
-        "name": "behavior",
-        "trans": ["n. 行为，举止；态度；反应"]
-    },
-    {
         "usphone": "[ɪnˈstrʌkʃn]",
         "ukphone": "[ɪnˈstrʌkʃn]",
         "name": "instruction",
@@ -7908,12 +7860,6 @@
         "trans": ["n. 徽章；证章；标记\nvt. 授给\u2026徽章"]
     },
     {
-        "usphone": "[məˈʃiːn]",
-        "ukphone": "[məˈʃiːn]",
-        "name": "machine",
-        "trans": ["n. 机械，机器；机构；机械般工作的人\nvt. 用机器制造\nn. 人名；(意)马基内"]
-    },
-    {
         "usphone": "[waɪə]",
         "ukphone": "[waɪə]",
         "name": "wire",
@@ -7974,12 +7920,6 @@
         "trans": ["n. 首都，省会；资金；大写字母；资本家\nadj. 首都的；重要的；大写的\nn. 人名；(法)卡皮塔尔"]
     },
     {
-        "usphone": "[ˈefət]",
-        "ukphone": "[ˈefət]",
-        "name": "effort",
-        "trans": ["n. 努力；成就"]
-    },
-    {
         "usphone": "[ˈfedərəl] [ˈbjʊroʊ] [ɪnˌvestɪˈɡeɪʃ(ə)n]",
         "ukphone": "[ˈfedərəl] [ˈbjʊərəʊ] [ɪnˌvestɪˈɡeɪʃ(ə)n]",
         "name": "Federal Bureau of Investigation",
@@ -7990,18 +7930,6 @@
         "ukphone": "['kɒrɪdɔː]",
         "name": "Corridor",
         "trans": ["n. 走廊\n[生态] 走廊地带"]
-    },
-    {
-        "usphone": "['skiːmə]",
-        "ukphone": "['skiːmə]",
-        "name": "schema",
-        "trans": ["n. [计][心理] 模式；计划；图解；概要\n复数:schemata或schemas"]
-    },
-    {
-        "usphone": "[ɪkˈspəʊnənt]",
-        "ukphone": "[ɪkˈspəʊnənt]",
-        "name": "exponent",
-        "trans": ["n. [数] 指数；典型；说明者，说明物\nn. 倡导者，鼓吹者，代表者，拥护者\nadj. 说明的"]
     },
     {
         "usphone": "",
@@ -8188,12 +8116,6 @@
         "ukphone": "",
         "name": "anywhere else",
         "trans": ["其他任何地方"]
-    },
-    {
-        "usphone": "['dedɪkeɪtɪd]",
-        "ukphone": "['dedɪkeɪtɪd]",
-        "name": "dedicated",
-        "trans": ["adj. 专用的；专注的；献身的\nv. 以\u2026奉献；把\u2026用于（过去式和过去分词）"]
     },
     {
         "usphone": "[əˈpreɪzl]",
