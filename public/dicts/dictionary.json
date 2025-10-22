@@ -6378,12 +6378,6 @@
         "trans": ["adj 不可预知的；不定的；出乎意料的\nn 不可预言的事"]
     },
     {
-        "usphone": "/poʊstˈpoʊnɪŋ/",
-        "ukphone": "/pəʊstˈpəʊnɪŋ/",
-        "name": "postponing",
-        "trans": ["n.推迟"]
-    },
-    {
         "usphone": "/ˈskɛri/",
         "ukphone": "/ˈskeəri/",
         "name": "scary",
@@ -6462,12 +6456,6 @@
         "trans": ["惹某人恼怒"]
     },
     {
-        "usphone": "/ˈtizɪŋ/",
-        "ukphone": "/ˈtiːzɪŋ/",
-        "name": "teasing",
-        "trans": ["n.戏弄"]
-    },
-    {
         "usphone": "/ˈkjuːt bʌt/",
         "ukphone": "/ˈkjuːt bʌt/",
         "name": "cute butt",
@@ -6498,12 +6486,6 @@
         "trans": ["出名的原因"]
     },
     {
-        "usphone": "/feɪm/",
-        "ukphone": "/feɪm/",
-        "name": "fame",
-        "trans": ["n.名声，名望；传闻，传说\nvt.使闻名，使有名望"]
-    },
-    {
         "usphone": "/ˈfeɪntɪŋ spɛl/",
         "ukphone": "/ˈfeɪntɪŋ spɛl/",
         "name": "fainting spell",
@@ -6526,12 +6508,6 @@
         "ukphone": "/wuːnd/",
         "name": "wound",
         "trans": ["n 创伤，伤口\nvt 使受伤\nvi 受伤，伤害"]
-    },
-    {
-        "usphone": "/ˈsɔr/",
-        "ukphone": "/sɔː/",
-        "name": "sore",
-        "trans": ["adj 疼痛的，痛心的；剧烈的，极度的；恼火的，发怒的；厉害的，迫切的\nn 溃疡，痛处；恨事，伤心事\nn 人名；(法)索尔；(意)索雷"]
     },
     {
         "usphone": "/ˈmɜrsi/",
@@ -6858,12 +6834,6 @@
         "trans": ["adv.可憎地；惹人讨厌地"]
     },
     {
-        "usphone": "[ˈbɔðər]",
-        "ukphone": "[ˈbɔðə(ɹ)]",
-        "name": "bother",
-        "trans": ["vt.烦扰，打扰；使\u2026\u2026不安；使\u2026\u2026恼怒\nvi.操心，麻烦；烦恼\nn.麻烦；烦恼"]
-    },
-    {
         "usphone": "[ˈivən ˈbɑðər]",
         "ukphone": "[ˈiːvən ˈbɒðə]",
         "name": "even bother",
@@ -6966,12 +6936,6 @@
         "trans": ["n.债务；借款；罪过"]
     },
     {
-        "usphone": "[ʤæm]",
-        "ukphone": "[ʤæm]",
-        "name": "jam",
-        "trans": ["n.果酱；拥挤；困境；扣篮\nvt.使堵塞；挤进，使塞满；混杂；压碎\nvi.堵塞；轧住\nn.人名；(伊朗、巴基)贾姆"]
-    },
-    {
         "usphone": "[stʌk]",
         "ukphone": "[stʌk]",
         "name": "stuck",
@@ -6982,12 +6946,6 @@
         "ukphone": "[hʊd]",
         "name": "hood",
         "trans": ["n.头巾；覆盖；兜帽\nvt.罩上；以头巾覆盖\nn.人名；(英)胡德；(德、荷)霍德"]
-    },
-    {
-        "usphone": "[trɛsˈpæsɪŋ]",
-        "ukphone": "[trɛsˈpæsɪŋ]",
-        "name": "trespassing",
-        "trans": ["n.擅自进入\nv.侵入；犯罪（trespass的ing形式）"]
     },
     {
         "usphone": "[ˈtrɛspæs]",
@@ -7006,12 +6964,6 @@
         "ukphone": "[kɪk aʊt]",
         "name": "kick out",
         "trans": ["v.解雇；开除；把球踢出界"]
-    },
-    {
-        "usphone": "[ˈkoʊmə]",
-        "ukphone": "[ˈkəʊmə]",
-        "name": "coma",
-        "trans": ["n.[医] 昏迷；[天] 彗形像差\nn.人名；(法、西)科马"]
     },
     {
         "usphone": "[ɪn ə ˈkoʊmə]",
@@ -7066,12 +7018,6 @@
         "ukphone": "[rɪˈlaɪəbl]",
         "name": "reliable",
         "trans": ["adj.可靠的；可信赖的\nn.可靠的人"]
-    },
-    {
-        "usphone": "[liːd]",
-        "ukphone": "[liːd]",
-        "name": "lead",
-        "trans": ["vt.领导；致使；引导；指挥\nvi.导致；用水砣测深\nn.领导；铅；导线；榜样\nn. （英）利德（人名）"]
     },
     {
         "usphone": "[ˈtɔrʧər]",
@@ -7458,12 +7404,6 @@
         "trans": ["adj. 共同的；相互的，彼此的"]
     },
     {
-        "usphone": "[ˈsɜrkɪt]",
-        "ukphone": "[ˈsɜːkɪt]",
-        "name": "circuit",
-        "trans": ["n. [电子] 电路，回路；巡回；一圈；环道\nvi. 环行\nvt. 绕回\u2026环行"]
-    },
-    {
         "usphone": "[frɪʤ]",
         "ukphone": "[frɪʤ]",
         "name": "fridge",
@@ -7650,12 +7590,6 @@
         "trans": ["n. 并发症；复杂；复杂化；混乱"]
     },
     {
-        "usphone": "[ˈkænsəl]",
-        "ukphone": "[ˈkænsəl]",
-        "name": "cancel",
-        "trans": ["vt. 取消；删去\nvi. 取消；相互抵消\nvi. 取消，撤销\nn. 取消，撤销\nn. 人名；(法)康塞尔"]
-    },
-    {
         "usphone": "[tɛkˈnik]",
         "ukphone": "[tekˈniːk]",
         "name": "technique",
@@ -7794,6 +7728,12 @@
         "trans": ["n. 癌症；恶性肿瘤"]
     },
     {
+        "usphone": "[ˈkænsəl]",
+        "ukphone": "[ˈkænsəl]",
+        "name": "cancel",
+        "trans": ["vt. 取消；删去\nvi. 取消；相互抵消\nvi. 取消，撤销\nn. 取消，撤销\nn. 人名；(法)康塞尔"]
+    },
+    {
         "usphone": "[tɪə]",
         "ukphone": "[tɪə]",
         "name": "tier",
@@ -7906,12 +7846,6 @@
         "ukphone": "[freɪz]",
         "name": "phrase",
         "trans": ["n. 短语, 习语, 措辞, 乐句\nvt. 措词, 将(乐曲)分成乐句"]
-    },
-    {
-        "usphone": "[æmˈbɪɡjuəs]",
-        "ukphone": "[æmˈbɪɡjuəs]",
-        "name": "ambiguous",
-        "trans": ["adj. 模糊不清的，模棱两可的；不明确的，不明朗的；引起歧义的"]
     },
     {
         "usphone": "['traɪəl]",
@@ -8116,12 +8050,6 @@
         "ukphone": "[fliːt]",
         "name": "fleet",
         "trans": ["n. 船队，舰队；捕鱼船队；（一国的）海军；（同一机构的）车队，机群；（沼泽地）小河，水道，沟\nadj. 快速的，敏捷的；跑得快的，疾驰的；（水）浅的\nadv. （水）浅，不深地\nv. （诗歌或文学）飞逝，疾驰；消磨，使（时间）飞快地过去；消失，转瞬即逝\nn.  （美）弗利特（人名）"]
-    },
-    {
-        "usphone": "[ˈmæksɪmaɪz]",
-        "ukphone": "[ˈmæksɪmaɪz]",
-        "name": "maximize",
-        "trans": ["v. （使）增加到最大限度；充分利用；找到\u2026\u2026的最高值；（使计算机视窗）最大化"]
     },
     {
         "usphone": "[ˈfɪɡə(r)]",
