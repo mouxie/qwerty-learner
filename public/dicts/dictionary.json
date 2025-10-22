@@ -3198,12 +3198,6 @@
 		"trans": ["n.野兽；畜生，人面兽心的人"]
 	},
 	{
-		"usphone": "[tʌf]",
-		"ukphone": "[tʌf]",
-		"name": "tough",
-		"trans": ["adj.艰苦的，困难的；坚强的，不屈不挠的；坚韧的，牢固的；强壮的，结实的\nn.恶棍\nvt.坚持；忍受，忍耐\nadv.强硬地，顽强地\nn.人名；(英)图赫"]
-	},
-	{
 		"usphone": "[friːk]",
 		"ukphone": "[friːk]",
 		"name": "freak",
@@ -5802,12 +5796,6 @@
         "trans": ["adj.可怕的；极坏的；难受的；使人敬畏的；非常的\nadv.极其，非常"]
     },
     {
-        "usphone": "/ˈtʌfɪst/",
-        "ukphone": "/ˈtʌfɪst/",
-        "name": "toughest",
-        "trans": ["adj.最坚强的；最坚韧的；最粗暴的；最苛刻的（tough的最高级）"]
-    },
-    {
         "usphone": "/ˈdɛvəl/",
         "ukphone": "/ˈdɛvəl/",
         "name": "devil",
@@ -6382,12 +6370,6 @@
         "ukphone": "/fɜːm ʌp/",
         "name": "firm up",
         "trans": ["回升；转强"]
-    },
-    {
-        "usphone": "/prɪˈdɪktəbl/",
-        "ukphone": "/prɪˈdɪktəbl/",
-        "name": "predictable",
-        "trans": ["adj.可预言的"]
     },
     {
         "usphone": "/ʌnprɪˈdɪktəbl/",
