@@ -1368,12 +1368,6 @@
         "trans": ["v. 照射，照亮；阐明，解释；使容光焕发；用彩灯装饰；用金、银等彩色图案装饰（书稿的书页或首词第一个字母）"]
     },
     {
-        "usphone": "[kəˈmjuːnɪkeɪt]",
-        "ukphone": "[kəˈmjuːnɪkeɪt]",
-        "name": "communicate",
-        "trans": ["v. 传递信息，通讯；传达，传递（想法或感情）；传染（疾病）；（房间或建筑）相通，相连；传输（热，力），传递（运动）；领受圣餐"]
-    },
-    {
         "usphone": "[ˌkɒmprɪˈhensɪv]",
         "ukphone": "[ˌkɒmprɪˈhensɪv]",
         "name": "comprehensive",
@@ -1414,18 +1408,6 @@
         "ukphone": "[prəˈkjʊə(r)]",
         "name": "procure",
         "trans": ["v. <正式>（设法） 获得，取得；为（某人）拉皮条，给（某人）做淫媒；<法律>说服，使（某人）做某事；<古>导致"]
-    },
-    {
-        "usphone": "[trɪp]",
-        "ukphone": "[trɪp]",
-        "name": "trip",
-        "trans": ["n.（尤指短程往返的）旅行，旅游；出门，出行；绊倒；<非正式>（吸毒所致的）幻觉，迷幻感受；<美，非正式>让人开心的奇人，奇妙有趣的经历；强烈的情感体验；（赛跑等比赛的）赛程；自我放纵的态度（或行动）；（机器、电路的）开关；<古>轻捷的脚步；<古>错误\nv.绊，绊倒；脚步轻快地走（或跑、跳舞）；（尤指意外地）触动（开关）；（部分电路）自动断开；<非正式>（服用毒品后）产生幻觉；（字句）轻松自如地吐出；作短程旅行；竖起（帆桁等）；（航海）起（锚）\n【名】 （美）特里普（人名）"]
-    },
-    {
-        "usphone": "[ˈtræv(ə)l]",
-        "ukphone": "[ˈtræv(ə)l]",
-        "name": "travel",
-        "trans": ["v.（尤指长途）旅行；走动，移动；（以某速度、朝某方向或在某距离内）行进；（光或声音）传播；（食品等）经得起长途运输；周游，走遍；（尤指车辆）快速行进；（消息）流传；盛行各地；（篮球运动中）走步；（目光）扫视，移动；交往；想象来到\nn.旅行；（出国）旅游；（机器部件的）运动范围，运动速度，运动模式"]
     },
     {
         "usphone": "[kənˈsensəs]",
@@ -1836,12 +1818,6 @@
         "trans": ["n. （尤指为获得某物制定长期的）策略，行动计划；战略，战略学"]
     },
     {
-        "usphone": "[praɪˈmerəli; ˈpraɪmərəli]",
-        "ukphone": "[praɪˈmerəli; ˈpraɪmərəli]",
-        "name": "primarily",
-        "trans": ["adv. 主要地，首要地，根本地"]
-    },
-    {
         "usphone": "[ˈsuːtəb(ə)l]",
         "ukphone": "[ˈsuːtəb(ə)l]",
         "name": "suitable",
@@ -1864,12 +1840,6 @@
         "ukphone": "[ˈɪntərɪm]",
         "name": "interim",
         "trans": ["adj. 暂时的，过渡期间的，间歇的；决算前的，中间时期的\nn. 过渡期，中间期；中期利润，阶段性成果"]
-    },
-    {
-        "usphone": "[ɪnˌvestɪˈɡeɪʃn]",
-        "ukphone": "[ɪnˌvestɪˈɡeɪʃn]",
-        "name": "investigation",
-        "trans": ["n. 调查，审查；科学研究，学术研究"]
     },
     {
         "usphone": "[dɪˈzɑːstə(r)]",
@@ -2224,12 +2194,6 @@
         "ukphone": "[tjuːn]",
         "name": "tune",
         "trans": ["n. 曲调，曲子；歌曲，乐段\nv. （给乐器）调音，校音；（给收音机、电视等）调谐，调频道；调整，调节（发动机）；调整，使适合；<南非，非正式>告诉\n【名】图恩（人名）\nn. 人名；（英）图恩"]
-    },
-    {
-        "usphone": "[ˈdiːfekt; dɪˈfekt]",
-        "ukphone": "[ˈdiːfekt; dɪˈfekt]",
-        "name": "defect",
-        "trans": ["n. 缺点，缺陷，毛病\n\nv. 背叛，叛变，投敌"]
     },
     {
         "usphone": "[ɪnˈkɔːpəreɪt]",
@@ -2790,12 +2754,6 @@
         "trans": ["adj.独身的，不结婚的；没有性生活的，禁欲的\nn.独身主义者；禁欲者"]
     },
     {
-        "usphone": "ɪnˈtaɪərli",
-        "ukphone": "ɪnˈtaɪəli",
-        "name": "entirely",
-        "trans": ["adv.完全地，彻底地"]
-    },
-    {
         "usphone": "ˈlɪŋɡər",
         "ukphone": "/ˈlɪŋɡə(r)/",
         "name": "linger",
@@ -3192,12 +3150,6 @@
 		"trans": ["n.地窖；酒窖；地下室\nvt.把…藏入地窖\nn.人名；(捷)采拉尔"]
 	},
 	{
-		"usphone": "[ˈplɛnti]",
-		"ukphone": "[ˈplenti]",
-		"name": "plenty",
-		"trans": ["n.丰富，大量；充足\nadj.足够的，很多的\nadv.足够\npron.大量；充足；富裕\nn.普伦蒂（人名）"]
-	},
-	{
 		"usphone": "[ˈkændl]",
 		"ukphone": "[ˈkændl]",
 		"name": "candle",
@@ -3244,12 +3196,6 @@
 		"ukphone": "[biːst]",
 		"name": "beast",
 		"trans": ["n.野兽；畜生，人面兽心的人"]
-	},
-	{
-		"usphone": "[tʌf]",
-		"ukphone": "[tʌf]",
-		"name": "tough",
-		"trans": ["adj.艰苦的，困难的；坚强的，不屈不挠的；坚韧的，牢固的；强壮的，结实的\nn.恶棍\nvt.坚持；忍受，忍耐\nadv.强硬地，顽强地\nn.人名；(英)图赫"]
 	},
 	{
 		"usphone": "[friːk]",
@@ -3382,12 +3328,6 @@
         "ukphone": "/nʌn/",
         "name": "none",
         "trans": ["pron.没有人，一个也没有，没有任何东西\nadj.没有的，一点没有的\nadv.一点也不；决不，不怎么，绝不\nn.申初经（天主教七段祈祷时间中的一部分，通常在一天中的第九个小时）\nn. （葡、罗）诺内（人名）"]
-    },
-    {
-        "usphone": "/nʌl/",
-        "ukphone": "/nʌl/",
-        "name": "null",
-        "trans": ["adj.无效的，无价值的；等于零的\nn.零，[数] 空"]
     },
     {
         "usphone": "/daɪˈmen.ʃən/",
@@ -3526,12 +3466,6 @@
         "ukphone": "[ˈkɒmə]",
         "name": "comma",
         "trans": ["n. 逗号；停顿"]
-    },
-    {
-        "usphone": "[ˈɡreɪtər ðæn]",
-        "ukphone": "[ˈɡreɪtə ðæn]",
-        "name": "greater than",
-        "trans": ["[数] 大于"]
     },
     {
         "usphone": "[flɪp]",
@@ -5862,12 +5796,6 @@
         "trans": ["adj.可怕的；极坏的；难受的；使人敬畏的；非常的\nadv.极其，非常"]
     },
     {
-        "usphone": "/ˈtʌfɪst/",
-        "ukphone": "/ˈtʌfɪst/",
-        "name": "toughest",
-        "trans": ["adj.最坚强的；最坚韧的；最粗暴的；最苛刻的（tough的最高级）"]
-    },
-    {
         "usphone": "/ˈdɛvəl/",
         "ukphone": "/ˈdɛvəl/",
         "name": "devil",
@@ -6444,22 +6372,10 @@
         "trans": ["回升；转强"]
     },
     {
-        "usphone": "/prɪˈdɪktəbl/",
-        "ukphone": "/prɪˈdɪktəbl/",
-        "name": "predictable",
-        "trans": ["adj.可预言的"]
-    },
-    {
         "usphone": "/ʌnprɪˈdɪktəbl/",
         "ukphone": "/ʌnprɪˈdɪktəbl/",
         "name": "unpredictable",
         "trans": ["adj 不可预知的；不定的；出乎意料的\nn 不可预言的事"]
-    },
-    {
-        "usphone": "/poʊstˈpoʊnɪŋ/",
-        "ukphone": "/pəʊstˈpəʊnɪŋ/",
-        "name": "postponing",
-        "trans": ["n.推迟"]
     },
     {
         "usphone": "/ˈskɛri/",
@@ -6540,12 +6456,6 @@
         "trans": ["惹某人恼怒"]
     },
     {
-        "usphone": "/ˈtizɪŋ/",
-        "ukphone": "/ˈtiːzɪŋ/",
-        "name": "teasing",
-        "trans": ["n.戏弄"]
-    },
-    {
         "usphone": "/ˈkjuːt bʌt/",
         "ukphone": "/ˈkjuːt bʌt/",
         "name": "cute butt",
@@ -6576,12 +6486,6 @@
         "trans": ["出名的原因"]
     },
     {
-        "usphone": "/feɪm/",
-        "ukphone": "/feɪm/",
-        "name": "fame",
-        "trans": ["n.名声，名望；传闻，传说\nvt.使闻名，使有名望"]
-    },
-    {
         "usphone": "/ˈfeɪntɪŋ spɛl/",
         "ukphone": "/ˈfeɪntɪŋ spɛl/",
         "name": "fainting spell",
@@ -6604,12 +6508,6 @@
         "ukphone": "/wuːnd/",
         "name": "wound",
         "trans": ["n 创伤，伤口\nvt 使受伤\nvi 受伤，伤害"]
-    },
-    {
-        "usphone": "/ˈsɔr/",
-        "ukphone": "/sɔː/",
-        "name": "sore",
-        "trans": ["adj 疼痛的，痛心的；剧烈的，极度的；恼火的，发怒的；厉害的，迫切的\nn 溃疡，痛处；恨事，伤心事\nn 人名；(法)索尔；(意)索雷"]
     },
     {
         "usphone": "/ˈmɜrsi/",
@@ -6936,12 +6834,6 @@
         "trans": ["adv.可憎地；惹人讨厌地"]
     },
     {
-        "usphone": "[ˈbɔðər]",
-        "ukphone": "[ˈbɔðə(ɹ)]",
-        "name": "bother",
-        "trans": ["vt.烦扰，打扰；使\u2026\u2026不安；使\u2026\u2026恼怒\nvi.操心，麻烦；烦恼\nn.麻烦；烦恼"]
-    },
-    {
         "usphone": "[ˈivən ˈbɑðər]",
         "ukphone": "[ˈiːvən ˈbɒðə]",
         "name": "even bother",
@@ -7044,12 +6936,6 @@
         "trans": ["n.债务；借款；罪过"]
     },
     {
-        "usphone": "[ʤæm]",
-        "ukphone": "[ʤæm]",
-        "name": "jam",
-        "trans": ["n.果酱；拥挤；困境；扣篮\nvt.使堵塞；挤进，使塞满；混杂；压碎\nvi.堵塞；轧住\nn.人名；(伊朗、巴基)贾姆"]
-    },
-    {
         "usphone": "[stʌk]",
         "ukphone": "[stʌk]",
         "name": "stuck",
@@ -7060,12 +6946,6 @@
         "ukphone": "[hʊd]",
         "name": "hood",
         "trans": ["n.头巾；覆盖；兜帽\nvt.罩上；以头巾覆盖\nn.人名；(英)胡德；(德、荷)霍德"]
-    },
-    {
-        "usphone": "[trɛsˈpæsɪŋ]",
-        "ukphone": "[trɛsˈpæsɪŋ]",
-        "name": "trespassing",
-        "trans": ["n.擅自进入\nv.侵入；犯罪（trespass的ing形式）"]
     },
     {
         "usphone": "[ˈtrɛspæs]",
@@ -7084,12 +6964,6 @@
         "ukphone": "[kɪk aʊt]",
         "name": "kick out",
         "trans": ["v.解雇；开除；把球踢出界"]
-    },
-    {
-        "usphone": "[ˈkoʊmə]",
-        "ukphone": "[ˈkəʊmə]",
-        "name": "coma",
-        "trans": ["n.[医] 昏迷；[天] 彗形像差\nn.人名；(法、西)科马"]
     },
     {
         "usphone": "[ɪn ə ˈkoʊmə]",
@@ -7144,12 +7018,6 @@
         "ukphone": "[rɪˈlaɪəbl]",
         "name": "reliable",
         "trans": ["adj.可靠的；可信赖的\nn.可靠的人"]
-    },
-    {
-        "usphone": "[liːd]",
-        "ukphone": "[liːd]",
-        "name": "lead",
-        "trans": ["vt.领导；致使；引导；指挥\nvi.导致；用水砣测深\nn.领导；铅；导线；榜样\nn. （英）利德（人名）"]
     },
     {
         "usphone": "[ˈtɔrʧər]",
@@ -7216,12 +7084,6 @@
         "ukphone": "[ˈsɛtl]",
         "name": "settle",
         "trans": ["vi 解决；定居；沉淀；下陷\nvt 解决；安排；使\u2026定居\nn 有背长椅\nn 人名；(英)塞特尔"]
-    },
-    {
-        "usphone": "[ˈdæmɪʤ]",
-        "ukphone": "[ˈdæmɪʤ]",
-        "name": "damage",
-        "trans": ["n.损害；损毁；赔偿金\nvi.损害；损毁\nvt.损害，毁坏"]
     },
     {
         "usphone": "[feɪntɪd]",
@@ -7542,12 +7404,6 @@
         "trans": ["adj. 共同的；相互的，彼此的"]
     },
     {
-        "usphone": "[ˈsɜrkɪt]",
-        "ukphone": "[ˈsɜːkɪt]",
-        "name": "circuit",
-        "trans": ["n. [电子] 电路，回路；巡回；一圈；环道\nvi. 环行\nvt. 绕回\u2026环行"]
-    },
-    {
         "usphone": "[frɪʤ]",
         "ukphone": "[frɪʤ]",
         "name": "fridge",
@@ -7636,12 +7492,6 @@
         "ukphone": "[ˈstæɡə(r)]",
         "name": "stagger",
         "trans": ["vt. 蹒跚；使交错；使犹豫 \nvi. 蹒跚；犹豫 \nn. 蹒跚；交错安排 \nadj. 交错的；错开的"]
-    },
-    {
-        "usphone": "[bɪˈheɪvjər]",
-        "ukphone": "[bɪˈheɪvjə]",
-        "name": "behavior",
-        "trans": ["n. 行为，举止；态度；反应"]
     },
     {
         "usphone": "[ɪnˈstrʌkʃn]",
@@ -7738,12 +7588,6 @@
         "ukphone": "[ˌkɒmplɪˈkeɪʃn]",
         "name": "complication",
         "trans": ["n. 并发症；复杂；复杂化；混乱"]
-    },
-    {
-        "usphone": "[ˈkænsəl]",
-        "ukphone": "[ˈkænsəl]",
-        "name": "cancel",
-        "trans": ["vt. 取消；删去\nvi. 取消；相互抵消\nvi. 取消，撤销\nn. 取消，撤销\nn. 人名；(法)康塞尔"]
     },
     {
         "usphone": "[tɛkˈnik]",
@@ -7854,12 +7698,6 @@
         "trans": ["n. 优先；优先权；[数] 优先次序；优先考虑的事"]
     },
     {
-        "usphone": "['defɪnɪt]",
-        "ukphone": "['defɪnɪt]",
-        "name": "definite",
-        "trans": ["adj. 一定的；确切的"]
-    },
-    {
         "usphone": "[kɔːz]",
         "ukphone": "[kɔːz]",
         "name": "cause",
@@ -7890,6 +7728,12 @@
         "trans": ["n. 癌症；恶性肿瘤"]
     },
     {
+        "usphone": "[ˈkænsəl]",
+        "ukphone": "[ˈkænsəl]",
+        "name": "cancel",
+        "trans": ["vt. 取消；删去\nvi. 取消；相互抵消\nvi. 取消，撤销\nn. 取消，撤销\nn. 人名；(法)康塞尔"]
+    },
+    {
         "usphone": "[tɪə]",
         "ukphone": "[tɪə]",
         "name": "tier",
@@ -7906,12 +7750,6 @@
         "ukphone": "[bædʒ]",
         "name": "badge",
         "trans": ["n. 徽章；证章；标记\nvt. 授给\u2026徽章"]
-    },
-    {
-        "usphone": "[məˈʃiːn]",
-        "ukphone": "[məˈʃiːn]",
-        "name": "machine",
-        "trans": ["n. 机械，机器；机构；机械般工作的人\nvt. 用机器制造\nn. 人名；(意)马基内"]
     },
     {
         "usphone": "[waɪə]",
@@ -7974,12 +7812,6 @@
         "trans": ["n. 首都，省会；资金；大写字母；资本家\nadj. 首都的；重要的；大写的\nn. 人名；(法)卡皮塔尔"]
     },
     {
-        "usphone": "[ˈefət]",
-        "ukphone": "[ˈefət]",
-        "name": "effort",
-        "trans": ["n. 努力；成就"]
-    },
-    {
         "usphone": "[ˈfedərəl] [ˈbjʊroʊ] [ɪnˌvestɪˈɡeɪʃ(ə)n]",
         "ukphone": "[ˈfedərəl] [ˈbjʊərəʊ] [ɪnˌvestɪˈɡeɪʃ(ə)n]",
         "name": "Federal Bureau of Investigation",
@@ -7990,18 +7822,6 @@
         "ukphone": "['kɒrɪdɔː]",
         "name": "Corridor",
         "trans": ["n. 走廊\n[生态] 走廊地带"]
-    },
-    {
-        "usphone": "['skiːmə]",
-        "ukphone": "['skiːmə]",
-        "name": "schema",
-        "trans": ["n. [计][心理] 模式；计划；图解；概要\n复数:schemata或schemas"]
-    },
-    {
-        "usphone": "[ɪkˈspəʊnənt]",
-        "ukphone": "[ɪkˈspəʊnənt]",
-        "name": "exponent",
-        "trans": ["n. [数] 指数；典型；说明者，说明物\nn. 倡导者，鼓吹者，代表者，拥护者\nadj. 说明的"]
     },
     {
         "usphone": "",
@@ -8026,12 +7846,6 @@
         "ukphone": "[freɪz]",
         "name": "phrase",
         "trans": ["n. 短语, 习语, 措辞, 乐句\nvt. 措词, 将(乐曲)分成乐句"]
-    },
-    {
-        "usphone": "[æmˈbɪɡjuəs]",
-        "ukphone": "[æmˈbɪɡjuəs]",
-        "name": "ambiguous",
-        "trans": ["adj. 模糊不清的，模棱两可的；不明确的，不明朗的；引起歧义的"]
     },
     {
         "usphone": "['traɪəl]",
@@ -8190,12 +8004,6 @@
         "trans": ["其他任何地方"]
     },
     {
-        "usphone": "['dedɪkeɪtɪd]",
-        "ukphone": "['dedɪkeɪtɪd]",
-        "name": "dedicated",
-        "trans": ["adj. 专用的；专注的；献身的\nv. 以\u2026奉献；把\u2026用于（过去式和过去分词）"]
-    },
-    {
         "usphone": "[əˈpreɪzl]",
         "ukphone": "[əˈpreɪzl]",
         "name": "appraisal",
@@ -8242,12 +8050,6 @@
         "ukphone": "[fliːt]",
         "name": "fleet",
         "trans": ["n. 船队，舰队；捕鱼船队；（一国的）海军；（同一机构的）车队，机群；（沼泽地）小河，水道，沟\nadj. 快速的，敏捷的；跑得快的，疾驰的；（水）浅的\nadv. （水）浅，不深地\nv. （诗歌或文学）飞逝，疾驰；消磨，使（时间）飞快地过去；消失，转瞬即逝\nn.  （美）弗利特（人名）"]
-    },
-    {
-        "usphone": "[ˈmæksɪmaɪz]",
-        "ukphone": "[ˈmæksɪmaɪz]",
-        "name": "maximize",
-        "trans": ["v. （使）增加到最大限度；充分利用；找到\u2026\u2026的最高值；（使计算机视窗）最大化"]
     },
     {
         "usphone": "[ˈfɪɡə(r)]",
