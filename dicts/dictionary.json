@@ -9266,5 +9266,45 @@
         "trans": [
             "v. 坚称，断言；维护，坚持（权利或权威）；坚持自己的主张，表现坚定；生效，起作用"
         ]
+    },
+    {
+        "usphone": "[ˈtæsɪtɜːrn]",
+        "ukphone": "[ˈtæsɪtɜːn]",
+        "name": "taciturn",
+        "trans": [
+            "adj. 沉默寡言的；无言的，不太说话的"
+        ]
+    },
+    {
+        "usphone": "[rɪˈzemb(ə)l]",
+        "ukphone": "[rɪˈzemb(ə)l]",
+        "name": "resemble",
+        "trans": [
+            "v. 像，与……相似"
+        ]
+    },
+    {
+        "usphone": "[əˈpraɪz]",
+        "ukphone": "[əˈpraɪz]",
+        "name": "apprise",
+        "trans": [
+            "vt. 通知；报告"
+        ]
+    },
+    {
+        "usphone": "[ˈkɑːnʃəns]",
+        "ukphone": "[ˈkɒnʃəns]",
+        "name": "conscience",
+        "trans": [
+            "n. 良知，良心；内疚，愧疚; 【名】（法）孔西延斯（人名）"
+        ]
+    },
+    {
+        "usphone": "[prəˈbeɪʃnri]",
+        "ukphone": "[proʊˈbeɪʃəneri]",
+        "name": "probationary",
+        "trans": [
+            "adj. 试用的；缓刑的；实习中的"
+        ]
     }
 ]
