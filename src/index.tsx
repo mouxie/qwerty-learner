@@ -37,7 +37,7 @@ function Root() {
     const handleResize = () => {
       const isMobile = window.innerWidth <= 200
       if (!isMobile) {
-        window.location.href = '/qwerty-learner'
+        //window.location.href = '/qwerty-learner'
       }
       setIsMobile(isMobile)
     }
