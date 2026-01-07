@@ -31,13 +31,13 @@ function Root() {
     darkMode ? document.documentElement.classList.add('dark') : document.documentElement.classList.remove('dark')
   }, [darkMode])
 
-  const [isMobile, setIsMobile] = useState(window.innerWidth <= 600)
+  const [isMobile, setIsMobile] = useState(window.innerWidth <= 200)
 
   useEffect(() => {
     const handleResize = () => {
-      const isMobile = window.innerWidth <= 600
+      const isMobile = window.innerWidth <= 200
       if (!isMobile) {
-        window.location.href = '/'
+        window.location.href = '/qwerty-learner'
       }
       setIsMobile(isMobile)
     }
