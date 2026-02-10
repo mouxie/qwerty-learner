@@ -37,6 +37,17 @@ const chinaExam: DictionaryResource[] = [
     languageCategory: 'en',
   },
   {
+    id: 'mydictionary2',
+    name: 'ErrorBook',
+    description: '我的词库',
+    category: '中国考试',
+    tags: ['大学英语'],
+    url: '/dicts/errorbook.json',
+    length: 20,
+    language: 'en',
+    languageCategory: 'en',
+  },
+  {
     id: 'cet6',
     name: 'CET-6',
     description: '大学英语六级词库',
